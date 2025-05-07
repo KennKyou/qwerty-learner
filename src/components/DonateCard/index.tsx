@@ -19,9 +19,9 @@ export const DonateCard = () => {
   const wordNumber = useWordNumber()
   const sumWrongCount = useSumWrongCount()
   const dayFromFirstWord = useDayFromFirstWordRecord()
-  const dayFromQwerty = useMemo(() => {
+  const dayFromLexiLearner = useMemo(() => {
     const now = dayjs()
-    const past = dayjs('2021-01-21')
+    const past = dayjs('2025-05-01')
     return now.diff(past, 'day')
   }, [])
 
@@ -36,7 +36,7 @@ export const DonateCard = () => {
       wordNumber,
       sumWrongCount,
       dayFromFirstWord,
-      dayFromQwerty,
+      dayFromLexiLearner,
       amount: amount ?? 0,
     })
 
@@ -52,7 +52,7 @@ export const DonateCard = () => {
       wordNumber,
       sumWrongCount,
       dayFromFirstWord,
-      dayFromQwerty,
+      dayFromLexiLearner,
       amount: amount ?? 0,
     })
 
@@ -112,20 +112,21 @@ export const DonateCard = () => {
                   <h1 className="gradient-text w-full pt-3 text-center text-[2.4rem] font-bold">{`${chapterNumber} Chapters Achievement !`}</h1>
                   <div className="flex w-full flex-col gap-4 px-4">
                     <p className="mx-auto px-4 indent-4">
-                      您刚刚完成了<HighlightedText> {chapterNumber} </HighlightedText>章节的练习，Qwerty Learner 已经陪你走过
+                      您剛剛完成了<HighlightedText> {chapterNumber} </HighlightedText>章節的練習，字感練習生已經陪你走過
                       <HighlightedText> {dayFromFirstWord} </HighlightedText> 天，一起完成了
                       <HighlightedText> {wordNumber} </HighlightedText>
-                      词的练习，帮助您纠正了 <HighlightedText> {sumWrongCount} </HighlightedText>次错误输入，让我们一起为您的进步欢呼
+                      詞的練習，幫助您糾正了 <HighlightedText> {sumWrongCount} </HighlightedText>次錯誤輸入，讓我們一起為您的進步歡呼
                       <IconParty className="ml-2 inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <IconParty className="inline-block" fontSize={16} />
                       <br />
                     </p>
                     <p className="mx-auto px-4 indent-4">
-                      Qwerty Learner 已经坚持 <span className="font-medium ">开放源码、无广告、无商业化</span> 运营
-                      <HighlightedText className="text-indigo-500"> {dayFromQwerty} </HighlightedText> 天，
-                      我们的目标是为所有学习者提供一个高效、便捷、无干扰的学习环境。我们诚挚地邀请您考虑进行捐赠，捐赠将直接用于维持 Qwerty
-                      的日常运营以及未来发展，让 Qwerty 与您一起成长。
+                      字感練習生基於 <span className="font-medium ">qwerty-learner</span> 開發，已經堅持{' '}
+                      <span className="font-medium ">開源、無廣告、無商業化</span> 運營
+                      <HighlightedText className="text-indigo-500"> {dayFromLexiLearner} </HighlightedText> 天，
+                      我們的目標是為所有學習者提供一個無干擾的學習環境。我們誠摯地邀請您考慮進行贊助，贊助將直接用於維持字感
+                      練習生的日常運營以及未來發展，讓字感練習生與您一起成長。
                     </p>
                   </div>
 
@@ -136,10 +137,10 @@ export const DonateCard = () => {
                       className={`my-btn-primary ${!amount && 'invisible'} w-36 bg-amber-500 font-medium transition-all`}
                       onClick={onClickHasDonated}
                     >
-                      我已捐赠
+                      我已贊助
                     </button>
                     <button type="button" className="my-btn-primary w-36 font-medium" onClick={onClickRemindMeLater}>
-                      之后提醒我
+                      之後提醒我
                     </button>
                   </div>
                 </div>

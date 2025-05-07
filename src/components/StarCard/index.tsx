@@ -114,7 +114,7 @@ export default function StarCard() {
           </button>
         </div>
         <span className="pb-4 text-xl text-gray-600 dark:text-gray-50">
-          堅持練習，提高語言能力。將 <span className="text-indigo-600">「Qwerty Learner」</span>保存到收藏夾，持續學習！
+          堅持練習，提高語言能力。將 <span className="text-indigo-600">「字感練習生」</span>保存到收藏夾，持續學習！
         </span>
         {content}
       </div>

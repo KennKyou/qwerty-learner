@@ -61,7 +61,7 @@ export type donateCardInfo = {
   wordNumber: number
   sumWrongCount: number
   dayFromFirstWord: number
-  dayFromQwerty: number
+  dayFromLexiLearner: number
   amount: number
 }
 

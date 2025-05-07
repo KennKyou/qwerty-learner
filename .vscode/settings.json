@@ -7,7 +7,7 @@
   "files.eol": "\n",
   "search.exclude": {
     "**/public/dicts/": true,
-    "**/assets/CET4_T.json": true
+    "**/assets/ket2021.json": true
   },
   "cSpell.words": [
     "alipay",

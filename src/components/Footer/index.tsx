@@ -100,7 +100,7 @@ const Footer: React.FC = () => {
             e.currentTarget.blur()
           }}
         >
-          @ Qwerty Learner
+          @ 字感練習生
         </button>
       </footer>
     </>
