@@ -66,11 +66,11 @@ async function getChapterStats(startTimeStamp: number, endTimeStamp: number): Pr
 
   let data: {
     [x: string]: {
-      exerciseTime: number //练习次数
-      words: string[] //练习词数组（不去重）
-      totalTime: number //总计用时
-      wrongCount: number //错误次数
-      wrongKeys: string[] //按错的按键
+      exerciseTime: number //練習次數
+      words: string[] //練習詞 array（不去重）
+      totalTime: number //總計用時
+      wrongCount: number //錯誤次數
+      wrongKeys: string[] //按錯的按鍵
     }
   } = {}
 
@@ -91,29 +91,29 @@ async function getChapterStats(startTimeStamp: number, endTimeStamp: number): Pr
 
   const RecordArray = Object.entries(data)
 
-  // 练习次数统计
+  // 練習次數統計
   const exerciseRecord: IWordStats['exerciseRecord'] = RecordArray.map(([date, { exerciseTime }]) => ({
     date,
     count: exerciseTime,
     level: getLevel(exerciseTime),
   }))
-  // 练习词数统计（去重）
+  // 練習詞數統計（去重）
   const wordRecord: IWordStats['wordRecord'] = RecordArray.map(([date, { words }]) => ({
     date,
     count: Array.from(new Set(words)).length,
     level: getLevel(Array.from(new Set(words)).length),
   }))
-  // wpm=练习词数（不去重）/总时间
+  // wpm=練習詞數（不去重）/總時間
   const wpmRecord: IWordStats['wpmRecord'] = RecordArray.map<[string, number]>(([date, { words, totalTime }]) => [
     date,
     Math.round(words.length / (totalTime / 1000 / 60)),
   ]).filter((d) => d[1])
-  // 正确率=每个单词的长度合计/(每个单词的长度合计+总错误次数)
+  // 正確率=每個單字的長度合計/(每個單字的長度合計+總錯誤次數)
   const accuracyRecord: IWordStats['accuracyRecord'] = RecordArray.map<[string, number]>(([date, { words, wrongCount }]) => [
     date,
     Math.round((words.join('').length / (words.join('').length + wrongCount)) * 100),
   ]).filter((d) => d[1])
-  // 错误次数统计
+  // 錯誤次數統計
   const wrongTimeRecord: IWordStats['wrongTimeRecord'] = []
   const allWrongTime = RecordArray.map(([, { wrongKeys }]) => wrongKeys)
     .flat()

@@ -33,9 +33,9 @@ export const keySoundResources: SoundResource[] = Object.keys(videoList)
     return a.key.localeCompare(b.key)
   })
 
-export const wrongSoundResources: SoundResource[] = [{ key: '1', name: '声音1', filename: 'beep.wav' }]
+export const wrongSoundResources: SoundResource[] = [{ key: '1', name: '聲音1', filename: 'beep.wav' }]
 
-export const correctSoundResources: SoundResource[] = [{ key: '1', name: '声音1', filename: 'correct.wav' }]
+export const correctSoundResources: SoundResource[] = [{ key: '1', name: '聲音1', filename: 'correct.wav' }]
 
 export const LANG_PRON_MAP: LanguagePronunciationMap = {
   en: {
@@ -68,7 +68,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '德语',
+        name: '德語',
         pron: 'de',
       },
     ],
@@ -77,7 +77,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '罗马音',
+        name: '羅馬音',
         pron: 'romaji',
       },
     ],
@@ -95,7 +95,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '普通话',
+        name: '普通話',
         pron: 'zh',
       },
     ],
@@ -104,7 +104,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '日语',
+        name: '日語',
         pron: 'ja',
       },
     ],
@@ -113,7 +113,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '哈萨克语',
+        name: '哈薩克語',
         pron: 'kk',
       },
     ],
@@ -122,7 +122,7 @@ export const LANG_PRON_MAP: LanguagePronunciationMap = {
     defaultPronIndex: 0,
     pronunciation: [
       {
-        name: '印尼语',
+        name: '印尼語',
         pron: 'id',
       },
     ],

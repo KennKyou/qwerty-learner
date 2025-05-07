@@ -81,19 +81,19 @@ export default function GalleryPage() {
                   <div className="flex items-center justify-center pb-10 pt-[20rem] text-gray-500">
                     <IconInfo className="mr-1 h-5 w-5" />
                     <p className="mr-5 w-10/12 text-xs">
-                      本项目的词典数据来自多个开源项目以及社区贡献者的无偿提供。我们深感感激并尊重每一位贡献者的知识产权。
-                      这些数据仅供个人学习和研究使用，严禁用于任何商业目的。如果你是数据的版权所有者，并且认为我们的使用方式侵犯了你的权利，请通过网站底部的电子邮件与我们联系。一旦收到有效的版权投诉，我们将在最短的时间内删除相关内容或寻求必要的许可。
-                      同时，我们也鼓励所有使用这些数据的人尊重版权所有者的权利，并且在使用这些数据时遵守所有相关的法律和规定。
-                      请注意，虽然我们尽力确保所有数据的合法性和准确性，但我们不能对任何数据的准确性、完整性、合法性或可靠性做出任何保证。使用这些数据的风险完全由用户自己承担。
+                      本專案的詞庫資料來自多個開源專案以及社群貢獻者的無償提供，部分資料來源由{' '}
+                      <a href="https://github.com/RealKai42/qwerty-learner" target="_blank" rel="noreferrer noopener">
+                        https://github.com/RealKai42/qwerty-learner
+                      </a>{' '}
+                      開源。我們深感感激並尊重每一位貢獻者的智慧財產權。
+                      這些資料僅供個人學習和研究使用，嚴禁用於任何商業目的。如果您是資料的版權所有者，且認為我們的使用方式侵犯了您的權利，請透過網站底部的電子郵件與我們聯繫。一旦收到有效的版權投訴，我們將在最短的時間內刪除相關內容或尋求必要的許可。
+                      同時，我們也鼓勵所有使用這些資料的人尊重版權所有者的權利，並且在使用這些資料時遵守所有相關的法律和規定。
+                      請注意，雖然我們盡力確保所有資料的合法性和準確性，但我們不能對任何資料的準確性、完整性、合法性或可靠性做出任何保證。使用這些資料的風險完全由使用者自己承擔。
                     </p>
                   </div>
                 </ScrollArea.Viewport>
                 <ScrollArea.Scrollbar className="flex touch-none select-none bg-transparent " orientation="vertical"></ScrollArea.Scrollbar>
               </ScrollArea.Root>
-              {/* todo: 增加导航 */}
-              {/* <div className="mt-20 h-40 w-40 text-center ">
-                <CategoryNavigation />
-              </div> */}
             </div>
           </div>
         </div>

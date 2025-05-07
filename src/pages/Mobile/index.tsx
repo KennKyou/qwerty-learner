@@ -12,23 +12,23 @@ import { useEffect, useRef, useState } from 'react'
 
 const detail = [
   {
-    title: '音标显示与发音功能',
-    description: '帮助用户同时记忆单词的读音与音标',
+    title: '音標顯示與發音功能',
+    description: '幫助使用者同時記憶單字的讀音語音標',
     img: phoneticImg,
   },
   {
-    title: '默写模式',
-    description: '每章结束后可选择默写，巩固所学单词',
+    title: '默寫模式',
+    description: '每張結束後可選擇默寫，加深所學單字印象',
     img: dictationImg,
   },
   {
-    title: '实时反馈',
-    description: '显示输入速度和正确率，量化技能提升',
+    title: '實時反饋',
+    description: '顯示輸入速度和正確率',
     img: speedImg,
   },
   {
-    title: '为程序员定制',
-    description: '内置编程相关词库，提高工作效率',
+    title: '為工程師訂製',
+    description: '內置相關詞庫，提高工作效率',
     img: codeImg,
   },
 ]
@@ -76,7 +76,7 @@ const MobilePage: React.FC = () => {
         <Flow />
         <div className="absolute top-10  flex w-full  flex-col items-center justify-center">
           <h1 className="animate__animated animate__zoomIn bg-gradient-to-b from-white to-[#dee0ff] bg-clip-text text-3xl font-bold text-transparent">
-            为键盘工作者设计的软件
+            單字與肌肉記憶訓練工具
           </h1>
           <h2
             className="animate__animated animate__zoomIn mt-5 text-sm font-bold text-white"
@@ -84,7 +84,7 @@ const MobilePage: React.FC = () => {
               textShadow: '1px 1px 2px #9c9ea3',
             }}
           >
-            简化英语学习与打字技能提升过程，快速建立正确的肌肉记忆
+            簡化語言學習與打字技能提升過程，快速建立正確的肌肉記憶
           </h2>
           <h2
             className="typewriter !mt-3 text-xs font-bold text-white"
@@ -97,7 +97,7 @@ const MobilePage: React.FC = () => {
               animation: 'typing 3s steps(50), blink-caret 0.75s step-end 4, hideCaret 0s 3s forwards',
             }}
           >
-            单词记忆与键盘输入相结合、音标发音与默写模式、多样化词库选择
+            單字記憶與鍵盤輸入結合、音標發音與默寫模式、多樣化詞庫選擇
           </h2>
         </div>
       </section>
@@ -126,7 +126,7 @@ const MobilePage: React.FC = () => {
       </section>
 
       <section className="mt-10 px-5">
-        <h1 className="text-center text-3xl font-bold text-primary">助力你快速掌握单词</h1>
+        <h1 className="text-center text-3xl font-bold text-primary">幫助快速掌握單字</h1>
 
         <div className="mt-10">
           {detail.map((item, index) => {
@@ -156,9 +156,9 @@ const MobilePage: React.FC = () => {
           animation: 'gradientBG 4s ease-in-out infinite',
         }}
       >
-        <h1 className="mt-10 text-3xl font-bold text-white">轻松上手，简单好用</h1>
-        <h2 className="mt-10    px-10 text-white">为键盘工作者设计的单词与肌肉记忆锻炼软件</h2>
-        <div className="mt-10 rounded-2xl bg-white px-6 py-3 font-bold text-primary">请使用桌面端浏览器访问本网站，即刻体验！</div>
+        <h1 className="mt-10 text-3xl font-bold text-white">輕鬆上手，簡單好用</h1>
+        <h2 className="mt-10    px-10 text-white">單字與肌肉記憶訓練工具</h2>
+        <div className="mt-10 rounded-2xl bg-white px-6 py-3 font-bold text-primary">請使用電腦瀏覽器訪問本網站，立即體驗！</div>
       </section>
     </div>
   )

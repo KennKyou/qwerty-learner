@@ -66,11 +66,11 @@ export default function StarCard() {
               <div className="flex flex-shrink-0 items-center">
                 <div className="ml-0.5">👈</div>
                 <IconStar className="h-4 w-4 text-indigo-600" />
-                <div className="ml-1 text-gray-600 dark:text-gray-300">点亮它！</div>
+                <div className="ml-1 text-gray-600 dark:text-gray-300">點亮它！</div>
               </div>
             </div>
             <span className="w-full text-center text-gray-600 dark:text-gray-300">
-              收藏快捷键<span className="ml-2 text-indigo-600 dark:text-indigo-500">{IS_MAC_OS ? '⌘' : 'Ctrl'} + D</span>
+              收藏快捷鍵<span className="ml-2 text-indigo-600 dark:text-indigo-500">{IS_MAC_OS ? '⌘' : 'Ctrl'} + D</span>
             </span>
           </div>
         ) : (
@@ -106,15 +106,15 @@ export default function StarCard() {
           {isCounting && (
             <span className="mx-1.5 dark:text-gray-100">
               <span className="text-indigo-600">{countdown}s </span>
-              后自动关闭
+              後自動關閉
             </span>
           )}
-          <button type="button" onClick={onClickCloseStar} title="关闭提示" aria-label="关闭提示">
+          <button type="button" onClick={onClickCloseStar} title="關閉提示" aria-label="關閉提示">
             <IconCircleX className="h-5 w-5 text-indigo-400" />
           </button>
         </div>
         <span className="pb-4 text-xl text-gray-600 dark:text-gray-50">
-          坚持练习，提高语言能力。将 <span className="text-indigo-600">「Qwerty Learner」</span>保存到收藏夹，永不迷失！
+          堅持練習，提高語言能力。將 <span className="text-indigo-600">「Qwerty Learner」</span>保存到收藏夾，持續學習！
         </span>
         {content}
       </div>

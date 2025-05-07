@@ -124,13 +124,13 @@ export default function SoundSetting() {
       <ScrollArea.Viewport className="h-full w-full px-3">
         <div className={styles.tabContent}>
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>单词发音</span>
+            <span className={styles.sectionLabel}>單字發音</span>
             <div className={styles.switchBlock}>
               <Switch checked={pronunciationConfig.isOpen} onChange={onTogglePronunciation} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`发音已${
-                pronunciationConfig.isOpen ? '开启' : '关闭'
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`發音已${
+                pronunciationConfig.isOpen ? '開啟' : '關閉'
               }`}</span>
             </div>
             <div className={styles.block}>
@@ -176,13 +176,13 @@ export default function SoundSetting() {
           </div>
           {window.speechSynthesis && (
             <div className={styles.section}>
-              <span className={styles.sectionLabel}>释义发音</span>
+              <span className={styles.sectionLabel}>釋義發音</span>
               <div className={styles.switchBlock}>
                 <Switch checked={pronunciationConfig.isTransRead} onChange={onTogglePronunciationIsTransRead} className="switch-root">
                   <span aria-hidden="true" className="switch-thumb" />
                 </Switch>
-                <span className="text-right text-xs font-normal leading-tight text-gray-600">{`发音已${
-                  pronunciationConfig.isTransRead ? '开启' : '关闭'
+                <span className="text-right text-xs font-normal leading-tight text-gray-600">{`發音已${
+                  pronunciationConfig.isTransRead ? '開啟' : '關閉'
                 }`}</span>
               </div>
               <div className={styles.block}>
@@ -209,13 +209,13 @@ export default function SoundSetting() {
           )}
 
           <div className={styles.section}>
-            <span className={styles.sectionLabel}>按键音</span>
+            <span className={styles.sectionLabel}>按鍵音</span>
             <div className={styles.switchBlock}>
               <Switch checked={keySoundsConfig.isOpen} onChange={onToggleKeySounds} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`发音已${
-                keySoundsConfig.isOpen ? '开启' : '关闭'
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`發音已${
+                keySoundsConfig.isOpen ? '開啟' : '關閉'
               }`}</span>
             </div>
             <div className={styles.block}>
@@ -239,7 +239,7 @@ export default function SoundSetting() {
               </div>
             </div>
             <div className={`${styles.block}`}>
-              <span className={styles.blockLabel}>按键音效</span>
+              <span className={styles.blockLabel}>按鍵音效</span>
               <Listbox value={keySoundsConfig.resource.key} onChange={onChangeKeySoundsResource}>
                 <div className="relative">
                   <Listbox.Button className="listbox-button w-60">
@@ -286,8 +286,8 @@ export default function SoundSetting() {
               <Switch checked={hintSoundsConfig.isOpen} onChange={onToggleHintSounds} className="switch-root">
                 <span aria-hidden="true" className="switch-thumb" />
               </Switch>
-              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`发音已${
-                hintSoundsConfig.isOpen ? '开启' : '关闭'
+              <span className="text-right text-xs font-normal leading-tight text-gray-600">{`發音已${
+                hintSoundsConfig.isOpen ? '開啟' : '關閉'
               }`}</span>
             </div>
             <div className={styles.block}>

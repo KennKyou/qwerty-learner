@@ -76,7 +76,7 @@ export function ErrorTable({ data, isLoading, error, onDelete }: DataTableProps)
           ) : (
             <TableRow>
               <TableCell colSpan={table.getAllColumns().length} className="h-[22rem] text-center">
-                {isLoading ? <LoadingUI /> : error ? '好像遇到错误啦！尝试刷新下' : '暂无数据, 快去练习吧！'}
+                {isLoading ? <LoadingUI /> : error ? '好像遇到錯誤了！試著重新整理一下頁面' : '暫無資料，快去練習吧！'}
               </TableCell>
             </TableRow>
           )}

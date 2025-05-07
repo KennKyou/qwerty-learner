@@ -42,7 +42,7 @@ const HeatmapCharts: FC<HeatmapChartsProps> = ({ data, title }) => {
         labels={{
           months: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
           weekdays: ['日', '一', '二', '三', '四', '五', '六'],
-          totalCount: '过去一年总计 {{count}} 次',
+          totalCount: '過去一年總計 {{count}} 次',
           legend: {
             less: '少',
             more: '多',
