@@ -2,13 +2,13 @@
     {
         "name": "appliances",
         "trans": [
-            "n. 家电"
+            "n. 家電"
         ]
     },
     {
         "name": "camera",
         "trans": [
-            "n. 摄像机"
+            "n. 相機"
         ]
     },
     {
@@ -20,13 +20,13 @@
     {
         "name": "laptop",
         "trans": [
-            "n. 笔记本电脑"
+            "n. 筆記型電腦"
         ]
     },
     {
         "name": "radio",
         "trans": [
-            "n. 收音机"
+            "n. 收音機"
         ]
     },
     {
@@ -38,43 +38,43 @@
     {
         "name": "electric lights",
         "trans": [
-            "n. 电灯"
+            "n. 電燈"
         ]
     },
     {
         "name": "telephone",
         "trans": [
-            "n. 电话"
+            "n. 電話"
         ]
     },
     {
         "name": "cell phone",
         "trans": [
-            "n. 手机"
+            "n. 手機"
         ]
     },
     {
         "name": "electricity",
         "trans": [
-            "n. 电力"
+            "n. 電力"
         ]
     },
     {
         "name": "mobile phone",
         "trans": [
-            "n. 移动电话"
+            "n. 行動電話"
         ]
     },
     {
         "name": "television/TV",
         "trans": [
-            "n. 电视"
+            "n. 電視"
         ]
     },
     {
         "name": "clock",
         "trans": [
-            "n. 时钟"
+            "n. 時鐘"
         ]
     },
     {
@@ -92,61 +92,62 @@
     {
         "name": "video",
         "trans": [
-            "n. 视频"
+            "n. 影片"
         ]
     },
     {
         "name": "computer",
         "trans": [
-            "n. 电脑"
+            "n. 電腦"
         ]
     },
     {
         "name": "gas oven",
         "trans": [
-            "n. 煤气炉"
+            "n. 瓦斯爐"
         ]
     },
     {
         "name": "washing machine",
         "trans": [
-            "n. 洗衣机"
+            "n. 洗衣機"
         ]
     },
     {
         "name": "cooker",
         "trans": [
-            "n. 炉灶"
+            "n. 爐灶",
+            "n. 炊具"
         ]
     },
     {
         "name": "heating",
         "trans": [
-            "n. 暖气"
+            "n. 暖氣"
         ]
     },
     {
         "name": "PC",
         "trans": [
-            "n. 台式电脑"
+            "n. 個人電腦"
         ]
     },
     {
         "name": "digital camera",
         "trans": [
-            "n. 数码相机"
+            "n. 數位相機"
         ]
     },
     {
         "name": "lamp",
         "trans": [
-            "n. 台灯"
+            "n. 檯燈"
         ]
     },
     {
         "name": "phone",
         "trans": [
-            "n. 电话"
+            "n. 電話"
         ]
     },
     {
@@ -159,65 +160,62 @@
     {
         "name": "fashion",
         "trans": [
-            "n. 时尚",
-            "adj. 时尚的"
+            "n. 時尚",
+            "adj. 時尚的"
         ]
     },
     {
         "name": "purse",
         "trans": [
-            "n. 钱包",
+            "n. 錢包",
             "n. 手提包"
         ]
     },
     {
         "name": "swimsuit",
         "trans": [
-            "n. 泳衣",
-            "n. 游泳装"
+            "n. 泳衣"
         ]
     },
     {
         "name": "bathing suit",
         "trans": [
-            "n. 泳衣",
-            "n. 游泳装"
+            "n. 泳衣"
         ]
     },
     {
         "name": "get dressed",
         "trans": [
             "v. 穿衣",
-            "v. 装扮"
+            "v. 裝扮"
         ]
     },
     {
         "name": "raincoat",
         "trans": [
-            "n. 雨衣",
-            "n. 雨披"
+            "n. 雨衣"
         ]
     },
     {
         "name": "tie",
         "trans": [
-            "n. 领带",
-            "v. 系",
-            "v. 绑"
+            "n. 領帶",
+            "v. 繫",
+            "v. 綁"
         ]
     },
     {
         "name": "belt",
         "trans": [
-            "n. 腰带",
-            "v. 系上",
-            "v. 捆绑"
+            "n. 腰帶",
+            "v. 繫上",
+            "v. 捆綁"
         ]
     },
     {
         "name": "glasses",
         "trans": [
-            "n. 眼镜"
+            "n. 眼鏡"
         ]
     },
     {
@@ -229,14 +227,14 @@
     {
         "name": "tights",
         "trans": [
-            "n. 连裤袜",
-            "n. 紧身衣"
+            "n. 褲襪",
+            "n. 緊身衣"
         ]
     },
     {
         "name": "blouse",
         "trans": [
-            "n. 女衬衫",
+            "n. 女襯衫",
             "n. 女上衣"
         ]
     },
@@ -249,47 +247,45 @@
     {
         "name": "scarf",
         "trans": [
-            "n. 围巾"
+            "n. 圍巾"
         ]
     },
     {
         "name": "trainers",
         "trans": [
-            "n. 运动鞋"
+            "n. 運動鞋"
         ]
     },
     {
         "name": "boot",
         "trans": [
             "n. 靴子",
-            "v. 装载"
+            "v. 裝載"
         ]
     },
     {
         "name": "handbag",
         "trans": [
-            "n. 手提包",
-            "n. 女士手袋"
+            "n. 手提包"
         ]
     },
     {
         "name": "shirt",
         "trans": [
-            "n. 衬衫",
+            "n. 襯衫",
             "n. 上衣"
         ]
     },
     {
         "name": "trousers",
         "trans": [
-            "n. 裤子"
+            "n. 褲子"
         ]
     },
     {
         "name": "bracelet",
         "trans": [
-            "n. 手链",
-            "n. 腕带"
+            "n. 手環"
         ]
     },
     {
@@ -307,47 +303,47 @@
     {
         "name": "try on",
         "trans": [
-            "v. 试穿",
-            "v. 试戴"
+            "v. 試穿",
+            "v. 試戴"
         ]
     },
     {
         "name": "cap",
         "trans": [
             "n. 帽子",
-            "n. 盖"
+            "n. 蓋"
         ]
     },
     {
         "name": "jacket",
         "trans": [
-            "n. 夹克",
+            "n. 夾克",
             "n. 短上衣"
         ]
     },
     {
         "name": "shorts",
         "trans": [
-            "n. 短裤"
+            "n. 短褲"
         ]
     },
     {
         "name": "T-shirt",
         "trans": [
-            "n. T恤衫"
+            "n. T恤"
         ]
     },
     {
         "name": "chain",
         "trans": [
-            "n. 链条",
-            "n. 项链"
+            "n. 鏈條",
+            "n. 項鏈"
         ]
     },
     {
         "name": "jeans",
         "trans": [
-            "n. 牛仔裤"
+            "n. 牛仔褲"
         ]
     },
     {
@@ -359,42 +355,42 @@
     {
         "name": "umbrella",
         "trans": [
-            "n. 雨伞"
+            "n. 雨傘"
         ]
     },
     {
         "name": "clothes",
         "trans": [
             "n. 衣服",
-            "n. 服装"
+            "n. 服裝"
         ]
     },
     {
         "name": "jewellery",
         "trans": [
-            "n. 珠宝",
-            "n. 首饰"
+            "n. 珠寶",
+            "n. 首飾"
         ]
     },
     {
         "name": "jewelry",
         "trans": [
-            "n. 珠宝",
-            "n. 首饰"
+            "n. 珠寶",
+            "n. 首飾"
         ]
     },
     {
         "name": "sock",
         "trans": [
-            "n. 短袜",
-            "n. 袜子"
+            "n. 短襪",
+            "n. 襪子"
         ]
     },
     {
         "name": "uniform",
         "trans": [
             "n. 制服",
-            "adj. 统一的"
+            "adj. 統一的"
         ]
     },
     {
@@ -408,80 +404,80 @@
         "name": "jumper",
         "trans": [
             "n. 毛衣",
-            "n. 跳跃者"
+            "n. 跳躍者"
         ]
     },
     {
         "name": "suit",
         "trans": [
-            "n. 套装",
-            "n. 西装"
+            "n. 套裝",
+            "n. 西裝"
         ]
     },
     {
         "name": "wallet",
         "trans": [
-            "n. 钱包"
+            "n. 錢包"
         ]
     },
     {
         "name": "costume",
         "trans": [
-            "n. 服装，戏服",
-            "n. 游泳装"
+            "n. 服裝",
+            "n. 戲服"
         ]
     },
     {
         "name": "kit",
         "trans": [
-            "n. 套件",
+            "n. 成套工具",
             "n. 工具箱"
         ]
     },
     {
         "name": "sunglasses",
         "trans": [
-            "n. 太阳镜"
+            "n. 太陽眼鏡"
         ]
     },
     {
         "name": "watch",
         "trans": [
-            "n. 手表",
-            "v. 观看"
+            "n. 手錶",
+            "v. 觀看"
         ]
     },
     {
         "name": "dress",
         "trans": [
-            "n. 连衣裙",
-            "v. 穿着"
+            "n. 連衣裙",
+            "v. 穿著"
         ]
     },
     {
         "name": "necklace",
         "trans": [
-            "n. 项链"
+            "n. 項鏈"
         ]
     },
     {
         "name": "sweater",
         "trans": [
             "n. 毛衣",
-            "n. 圆领运动衫"
+            "n. 圓領運動衫"
         ]
     },
     {
         "name": "wear",
         "trans": [
-            "v. 穿着",
-            "v. 戴着"
+            "v. 穿著",
+            "v. 戴著"
         ]
     },
     {
         "name": "earring",
         "trans": [
-            "n. 耳环"
+            "n. 耳環"
         ]
     },
     {
@@ -493,8 +489,7 @@
     {
         "name": "swimming costume",
         "trans": [
-            "n. 泳衣",
-            "n. 游泳装"
+            "n. 泳衣"
         ]
     },
     {
@@ -518,31 +513,31 @@
     {
         "name": "red",
         "trans": [
-            "红色"
+            "紅色"
         ]
     },
     {
         "name": "blue",
         "trans": [
-            "蓝色"
+            "藍色"
         ]
     },
     {
         "name": "green",
         "trans": [
-            "绿色"
+            "綠色"
         ]
     },
     {
         "name": "pale",
         "trans": [
-            "苍白的"
+            "蒼白的"
         ]
     },
     {
         "name": "silver",
         "trans": [
-            "银色"
+            "銀色"
         ]
     },
     {
@@ -584,7 +579,7 @@
     {
         "name": "light",
         "trans": [
-            "浅色"
+            "淺色"
         ]
     },
     {
@@ -596,7 +591,7 @@
     {
         "name": "yellow",
         "trans": [
-            "黄色"
+            "黃色"
         ]
     },
     {
@@ -608,82 +603,82 @@
     {
         "name": "digital",
         "trans": [
-            "数字的"
+            "數位的"
         ]
     },
     {
         "name": "laptop",
         "trans": [
-            "笔记本电脑(计算机用词)"
+            "筆記型電腦"
         ]
     },
     {
         "name": "printer",
         "trans": [
-            "打印机"
+            "印表機"
         ]
     },
     {
         "name": "at/@",
         "trans": [
-            "在，在...处",
-            "电子邮件域名(计算机用词)"
+            "在，在...處",
+            "電子郵件域名"
         ]
     },
     {
         "name": "digital camera",
         "trans": [
-            "数码相机"
+            "數位相機"
         ]
     },
     {
         "name": "mobile",
         "trans": [
-            "移动电话 (phone)"
+            "行動電話 (phone)"
         ]
     },
     {
         "name": "screen",
         "trans": [
-            "屏幕"
+            "螢幕"
         ]
     },
     {
         "name": "by post",
         "trans": [
-            "通过邮寄",
-            "通过邮递"
+            "郵寄",
+            "郵遞"
         ]
     },
     {
         "name": "dot",
         "trans": [
-            "点"
+            "點"
         ]
     },
     {
         "name": "mouse",
         "trans": [
-            "鼠标"
+            "滑鼠"
         ]
     },
     {
         "name": "software",
         "trans": [
-            "软件"
+            "軟體"
         ]
     },
     {
         "name": "call",
         "trans": [
-            "v.拨打电话"
+            "v.撥打電話"
         ]
     },
     {
         "name": "download",
         "trans": [
-            "n.下载",
-            "v.下载"
+            "n.下載",
+            "v.下載"
         ]
     },
     {
@@ -695,13 +690,13 @@
     {
         "name": "talk",
         "trans": [
-            "交谈"
+            "交談"
         ]
     },
     {
         "name": "camera",
         "trans": [
-            "相机"
+            "相機"
         ]
     },
     {
@@ -713,13 +708,13 @@
     {
         "name": "net",
         "trans": [
-            "网络"
+            "網路"
         ]
     },
     {
         "name": "telephone",
         "trans": [
-            "电话"
+            "電話"
         ]
     },
     {
@@ -731,27 +726,27 @@
     {
         "name": "email",
         "trans": [
-            "n.电子邮件",
-            "v.发送电子邮件"
+            "n.電子郵件",
+            "v.發送電子郵件"
         ]
     },
     {
         "name": "online",
         "trans": [
-            "在线的"
+            "在線的"
         ]
     },
     {
         "name": "text",
         "trans": [
-            "n.文本",
-            "v.发送短信"
+            "n.文字",
+            "v.發送訊息"
         ]
     },
     {
         "name": "cell phone",
         "trans": [
-            "手机"
+            "手機"
         ]
     },
     {
@@ -763,13 +758,13 @@
     {
         "name": "password",
         "trans": [
-            "密码"
+            "密碼"
         ]
     },
     {
         "name": "video",
         "trans": [
-            "视频"
+            "影片"
         ]
     },
     {
@@ -787,25 +782,25 @@
     {
         "name": "PC",
         "trans": [
-            "个人电脑"
+            "個人電腦"
         ]
     },
     {
         "name": "web",
         "trans": [
-            "网络"
+            "網路"
         ]
     },
     {
         "name": "click",
         "trans": [
-            "n.点击"
+            "n.點擊"
         ]
     },
     {
         "name": "information",
         "trans": [
-            "信息"
+            "資訊"
         ]
     },
     {
@@ -817,73 +812,73 @@
     {
         "name": "web page",
         "trans": [
-            "网页"
+            "網頁"
         ]
     },
     {
         "name": "computer",
         "trans": [
-            "计算机"
+            "電腦"
         ]
     },
     {
         "name": "internet",
         "trans": [
-            "互联网"
+            "網際網路"
         ]
     },
     {
         "name": "photography",
         "trans": [
-            "摄影"
+            "攝影"
         ]
     },
     {
         "name": "website",
         "trans": [
-            "网站"
+            "網站"
         ]
     },
     {
         "name": "conversation",
         "trans": [
-            "对话"
+            "對話"
         ]
     },
     {
         "name": "keyboard",
         "trans": [
-            "键盘"
+            "鍵盤"
         ]
     },
     {
         "name": "phone",
         "trans": [
-            "电话"
+            "電話"
         ]
     },
     {
         "name": "ad/advertisement",
         "trans": [
-            "广告"
+            "廣告"
         ]
     },
     {
         "name": "diary",
         "trans": [
-            "日记"
+            "日記"
         ]
     },
     {
         "name": "magazine",
         "trans": [
-            "杂志"
+            "雜誌"
         ]
     },
     {
         "name": "passport",
         "trans": [
-            "护照"
+            "護照"
         ]
     },
     {
@@ -895,13 +890,14 @@
     {
         "name": "diploma",
         "trans": [
-            "文凭,毕业证书"
+            "文憑",
+            "畢業證書"
         ]
     },
     {
         "name": "menu",
         "trans": [
-            "菜单"
+            "菜單"
         ]
     },
     {
@@ -913,31 +909,31 @@
     {
         "name": "bill",
         "trans": [
-            "账单"
+            "帳單"
         ]
     },
     {
         "name": "email",
         "trans": [
-            "电子邮件"
+            "電子郵件"
         ]
     },
     {
         "name": "message",
         "trans": [
-            "消息"
+            "訊息"
         ]
     },
     {
         "name": "project",
         "trans": [
-            "项目"
+            "專案"
         ]
     },
     {
         "name": "book",
         "trans": [
-            "书籍"
+            "書籍"
         ]
     },
     {
@@ -949,14 +945,14 @@
     {
         "name": "newspaper",
         "trans": [
-            "报纸"
+            "報紙"
         ]
     },
     {
         "name": "text",
         "trans": [
-            "n.文本",
-            "v.发送短信"
+            "n.文字",
+            "v.發送訊息"
         ]
     },
     {
@@ -974,31 +970,31 @@
     {
         "name": "note",
         "trans": [
-            "便条"
+            "筆記"
         ]
     },
     {
         "name": "textbook",
         "trans": [
-            "教科书"
+            "教科書"
         ]
     },
     {
         "name": "comic",
         "trans": [
-            "漫画"
+            "漫畫"
         ]
     },
     {
         "name": "licence",
         "trans": [
-            "执照"
+            "執照"
         ]
     },
     {
         "name": "notebook",
         "trans": [
-            "笔记本"
+            "筆記本"
         ]
     },
     {
@@ -1010,38 +1006,38 @@
     {
         "name": "advanced",
         "trans": [
-            "adj.高级的"
+            "adj.高級的"
         ]
     },
     {
         "name": "course",
         "trans": [
-            "n.课程"
+            "n.課程"
         ]
     },
     {
         "name": "lesson",
         "trans": [
-            "n.课程",
-            "n.教训"
+            "n.課程",
+            "n.教訓"
         ]
     },
     {
         "name": "ruler",
         "trans": [
-            "n.尺子"
+            "n.尺"
         ]
     },
     {
         "name": "beginner",
         "trans": [
-            "n.初学者"
+            "n.初學者"
         ]
     },
     {
         "name": "desk",
         "trans": [
-            "n.书桌"
+            "n.書桌"
         ]
     },
     {
@@ -1054,31 +1050,31 @@
     {
         "name": "school",
         "trans": [
-            "n.学校"
+            "n.學校"
         ]
     },
     {
         "name": "biology",
         "trans": [
-            "n.生物学"
+            "n.生物學"
         ]
     },
     {
         "name": "dictionary",
         "trans": [
-            "n.词典"
+            "n.字典"
         ]
     },
     {
         "name": "library",
         "trans": [
-            "n.图书馆"
+            "n.圖書館"
         ]
     },
     {
         "name": "science",
         "trans": [
-            "n.科学"
+            "n.科學"
         ]
     },
     {
@@ -1090,27 +1086,27 @@
     {
         "name": "diploma",
         "trans": [
-            "n.毕业证书"
+            "n.畢業證書"
         ]
     },
     {
         "name": "mark",
         "trans": [
-            "n.标记",
-            "v.标记"
+            "n.標記",
+            "v.標記"
         ]
     },
     {
         "name": "student",
         "trans": [
-            "n.学生"
+            "n.學生"
         ]
     },
     {
         "name": "board",
         "trans": [
             "n.板",
-            "n.委员会"
+            "n.委員會"
         ]
     },
     {
@@ -1122,57 +1118,59 @@
     {
         "name": "maths/mathematics studies",
         "trans": [
-            "数学学习",
-            "数学研究"
+            "數學學習",
+            "數學研究"
         ]
     },
     {
         "name": "book",
         "trans": [
-            "n.书籍",
-            "v.预订"
+            "n.書籍",
+            "v.預訂"
         ]
     },
     {
         "name": "exam",
         "trans": [
-            "n.考试"
+            "n.考試"
         ]
     },
     {
         "name": "examination",
         "trans": [
-            "n.考试,审查，调查（仔细的）"
+            "n.考試",
+            "n.審查",
+            "n.調查"
         ]
     },
     {
         "name": "note",
         "trans": [
-            "n.笔记"
+            "n.筆記"
         ]
     },
     {
         "name": "study",
         "trans": [
-            "v.学习"
+            "v.學習"
         ]
     },
     {
         "name": "bookshelf",
         "trans": [
-            "n.书架"
+            "n.書架"
         ]
     },
     {
         "name": "geography",
         "trans": [
-            "n.地理学"
+            "n.地理學"
         ]
     },
     {
         "name": "physics",
         "trans": [
-            "n.物理学"
+            "n.物理學"
         ]
     },
     {
@@ -1184,19 +1182,19 @@
     {
         "name": "chemistry",
         "trans": [
-            "n.化学"
+            "n.化學"
         ]
     },
     {
         "name": "history",
         "trans": [
-            "n.历史"
+            "n.歷史"
         ]
     },
     {
         "name": "practice",
         "trans": [
-            "n.练习"
+            "n.練習"
         ]
     },
     {
@@ -1208,51 +1206,51 @@
     {
         "name": "class",
         "trans": [
-            "n.班级",
-            "n.课堂"
+            "n.班級",
+            "n.課堂"
         ]
     },
     {
         "name": "homework",
         "trans": [
-            "n.家庭作业"
+            "n.家庭作業"
         ]
     },
     {
         "name": "practise",
         "trans": [
-            "v.练习"
+            "v.練習"
         ]
     },
     {
         "name": "teacher",
         "trans": [
-            "n.教师",
-            "n.老师"
+            "n.教師",
+            "n.老師"
         ]
     },
     {
         "name": "classmate",
         "trans": [
-            "n.同班同学"
+            "n.同班同學"
         ]
     },
     {
         "name": "information",
         "trans": [
-            "n.信息"
+            "n.資訊"
         ]
     },
     {
         "name": "project",
         "trans": [
-            "n.项目"
+            "n.專案"
         ]
     },
     {
         "name": "term",
         "trans": [
-            "n.学期"
+            "n.學期"
         ]
     },
     {
@@ -1270,20 +1268,21 @@
     {
         "name": "pupil",
         "trans": [
-            "n.学生",
-            "n.小学生"
+            "n.學生",
+            "n.小學生",
+            "n.瞳孔"
         ]
     },
     {
         "name": "test",
         "trans": [
-            "v.测试"
+            "v.測試"
         ]
     },
     {
         "name": "clever",
         "trans": [
-            "adj.聪明的"
+            "adj.聰明的"
         ]
     },
     {
@@ -1296,45 +1295,46 @@
     {
         "name": "read",
         "trans": [
-            "v.阅读"
+            "v.閱讀"
         ]
     },
     {
         "name": "university",
         "trans": [
-            "n.大学"
+            "n.大學"
         ]
     },
     {
         "name": "coach",
         "trans": [
-            "n.教练",
-            "v.训练"
+            "n.教練",
+            "v.訓練"
         ]
     },
     {
         "name": "language",
         "trans": [
-            "n.语言"
+            "n.語言"
         ]
     },
     {
         "name": "remember",
         "trans": [
-            "v.记得",
-            "v.记住"
+            "v.記得",
+            "v.記住"
         ]
     },
     {
         "name": "college",
         "trans": [
-            "n.学院"
+            "n.學院",
+            "n.學校"
         ]
     },
     {
         "name": "learn",
         "trans": [
-            "v.学习"
+            "v.學習"
         ]
     },
     {
@@ -1346,83 +1346,83 @@
     {
         "name": "act",
         "trans": [
-            "n.行为",
+            "n.行為",
             "v.表演"
         ]
     },
     {
         "name": "draw",
         "trans": [
-            "v.画",
-            "v.绘制"
+            "v.畫",
+            "v.繪製"
         ]
     },
     {
         "name": "magazine",
         "trans": [
-            "n.杂志"
+            "n.雜誌"
         ]
     },
     {
         "name": "practise",
         "trans": [
-            "v.练习"
+            "v.練習"
         ]
     },
     {
         "name": "actor",
         "trans": [
-            "n.演员"
+            "n.演員"
         ]
     },
     {
         "name": "drawing",
         "trans": [
-            "n.画",
-            "n.绘画"
+            "n.畫",
+            "n.繪畫"
         ]
     },
     {
         "name": "MP3 player",
         "trans": [
-            "n.MP3播放器"
+            "n.MP3 播放器"
         ]
     },
     {
         "name": "programme",
         "trans": [
-            "n.节目",
-            "n.计划"
+            "n.節目",
+            "n.計劃"
         ]
     },
     {
         "name": "adventure",
         "trans": [
-            "n.冒险"
+            "n.冒險"
         ]
     },
     {
         "name": "disco",
         "trans": [
-            "n.迪斯科舞厅"
+            "n.迪斯科舞廳"
         ]
     },
     {
         "name": "museum",
         "trans": [
-            "n.博物馆"
+            "n.博物館"
         ]
     },
     {
         "name": "project",
         "trans": [
-            "n.项目"
+            "n.專案"
         ]
     },
     {
         "name": "advertisement",
         "trans": [
-            "n.广告"
+            "n.廣告"
         ]
     },
     {
@@ -1434,37 +1434,37 @@
     {
         "name": "music",
         "trans": [
-            "n.音乐"
+            "n.音樂"
         ]
     },
     {
         "name": "radio",
         "trans": [
-            "n.收音机"
+            "n.收音機"
         ]
     },
     {
         "name": "art",
         "trans": [
-            "n.艺术"
+            "n.藝術"
         ]
     },
     {
         "name": "DVD player",
         "trans": [
-            "n.DVD播放器"
+            "n.DVD 播放器"
         ]
     },
     {
         "name": "musician",
         "trans": [
-            "n.音乐家"
+            "n.音樂家"
         ]
     },
     {
         "name": "read",
         "trans": [
-            "v.阅读"
+            "v.閱讀"
         ]
     },
     {
@@ -1476,62 +1476,62 @@
     {
         "name": "exhibition",
         "trans": [
-            "n.展览"
+            "n.展覽"
         ]
     },
     {
         "name": "news",
         "trans": [
-            "n.新闻"
+            "n.新聞"
         ]
     },
     {
         "name": "rock concert",
         "trans": [
-            "n.摇滚音乐会"
+            "n.搖滾音樂會"
         ]
     },
     {
         "name": "board game",
         "trans": [
-            "n.桌游"
+            "n.桌遊"
         ]
     },
     {
         "name": "festival",
         "trans": [
-            "n.节日"
+            "n.節日"
         ]
     },
     {
         "name": "newspaper",
         "trans": [
-            "n.报纸"
+            "n.報紙"
         ]
     },
     {
         "name": "screen",
         "trans": [
-            "n.屏幕"
+            "n.螢幕"
         ]
     },
     {
         "name": "book",
         "trans": [
-            "n.书籍"
+            "n.書籍"
         ]
     },
     {
         "name": "film",
         "trans": [
-            "n.电影",
-            "v.拍摄"
+            "n.電影",
+            "v.拍攝"
         ]
     },
     {
         "name": "opera",
         "trans": [
-            "n.歌剧"
+            "n.歌劇"
         ]
     },
     {
@@ -1550,15 +1550,15 @@
     {
         "name": "fun",
         "trans": [
-            "n.娱乐",
+            "n.娛樂",
             "adj.有趣的"
         ]
     },
     {
         "name": "paint",
         "trans": [
-            "v.绘画",
-            "v.涂抹"
+            "v.繪畫",
+            "v.塗抹"
         ]
     },
     {
@@ -1571,7 +1571,7 @@
         "name": "cartoon",
         "trans": [
             "n.卡通",
-            "n.动画片"
+            "n.動畫片"
         ]
     },
     {
@@ -1583,7 +1583,7 @@
     {
         "name": "painter",
         "trans": [
-            "n.画家"
+            "n.畫家"
         ]
     },
     {
@@ -1595,14 +1595,14 @@
     {
         "name": "CD player",
         "trans": [
-            "n.CD播放器"
+            "n.CD 播放器"
         ]
     },
     {
         "name": "group",
         "trans": [
-            "n.团体",
-            "n.组合"
+            "n.團體",
+            "n.組合"
         ]
     },
     {
@@ -1621,7 +1621,7 @@
     {
         "name": "chess",
         "trans": [
-            "n.国际象棋"
+            "n.國際象棋"
         ]
     },
     {
@@ -1633,19 +1633,19 @@
     {
         "name": "photographer",
         "trans": [
-            "n.摄影师"
+            "n.攝影師"
         ]
     },
     {
         "name": "television/TV",
         "trans": [
-            "n.电视"
+            "n.電視"
         ]
     },
     {
         "name": "cinema",
         "trans": [
-            "n.电影院"
+            "n.電影院"
         ]
     },
     {
@@ -1657,32 +1657,32 @@
     {
         "name": "photography",
         "trans": [
-            "n.摄影"
+            "n.攝影"
         ]
     },
     {
         "name": "theatre",
         "trans": [
-            "n.剧院"
+            "n.劇院"
         ]
     },
     {
         "name": "classical music",
         "trans": [
             "adj.古典的",
-            "n.古典音乐"
+            "n.古典音樂"
         ]
     },
     {
         "name": "instrument",
         "trans": [
-            "n.乐器"
+            "n.樂器"
         ]
     },
     {
         "name": "piano",
         "trans": [
-            "n.钢琴"
+            "n.鋼琴"
         ]
     },
     {
@@ -1694,31 +1694,31 @@
     {
         "name": "competition",
         "trans": [
-            "n.竞赛"
+            "n.競賽"
         ]
     },
     {
         "name": "keyboard",
         "trans": [
-            "n.键盘"
+            "n.鍵盤"
         ]
     },
     {
         "name": "picture",
         "trans": [
-            "n.图片"
+            "n.圖片"
         ]
     },
     {
         "name": "video game",
         "trans": [
-            "n.视频游戏"
+            "n.電玩遊戲"
         ]
     },
     {
         "name": "concert",
         "trans": [
-            "n.音乐会"
+            "n.音樂會"
         ]
     },
     {
@@ -1730,13 +1730,13 @@
     {
         "name": "play",
         "trans": [
-            "n.戏剧"
+            "n.戲劇"
         ]
     },
     {
         "name": "watch",
         "trans": [
-            "v.观看"
+            "v.觀看"
         ]
     },
     {
@@ -1749,13 +1749,13 @@
     {
         "name": "listen to",
         "trans": [
-            "v.听"
+            "v.聽"
         ]
     },
     {
         "name": "pop music",
         "trans": [
-            "n.流行音乐"
+            "n.流行音樂"
         ]
     },
     {
@@ -1773,8 +1773,7 @@
     {
         "name": "look at practice",
         "trans": [
-            "观察练习",
-            "注视实践"
+            "觀察練習"
         ]
     },
     {
@@ -1793,14 +1792,14 @@
     {
         "name": "group",
         "trans": [
-            "n.群体",
-            "n.组"
+            "n.群體",
+            "n.組"
         ]
     },
     {
         "name": "mummy",
         "trans": [
-            "n.妈妈"
+            "n.媽媽"
         ]
     },
     {
@@ -1812,8 +1811,8 @@
     {
         "name": "grandchild",
         "trans": [
-            "n.孙子",
-            "n.孙女"
+            "n.孫子",
+            "n.孫女"
         ]
     },
     {
@@ -1825,7 +1824,7 @@
     {
         "name": "neighbour",
         "trans": [
-            "n.邻居"
+            "n.鄰居"
         ]
     },
     {
@@ -1837,21 +1836,21 @@
     {
         "name": "grandad/granddad",
         "trans": [
-            "n.爷爷",
+            "n.爺爺",
             "n.外公"
         ]
     },
     {
         "name": "guy",
         "trans": [
-            "n.家伙"
+            "n.傢伙"
         ]
     },
     {
         "name": "parent",
         "trans": [
             "n.父母",
-            "n.亲生父母"
+            "n.親生父母"
         ]
     },
     {
@@ -1863,7 +1862,7 @@
     {
         "name": "granddaughter",
         "trans": [
-            "n.孙女"
+            "n.孫女"
         ]
     },
     {
@@ -1875,7 +1874,7 @@
     {
         "name": "pen-friend",
         "trans": [
-            "n.笔友"
+            "n.筆友"
         ]
     },
     {
@@ -1895,8 +1894,8 @@
     {
         "name": "love",
         "trans": [
-            "n.爱",
-            "v.爱"
+            "n.愛",
+            "v.愛"
         ]
     },
     {
@@ -1927,13 +1926,13 @@
     {
         "name": "son",
         "trans": [
-            "n.儿子"
+            "n.兒子"
         ]
     },
     {
         "name": "daughter",
         "trans": [
-            "n.女儿"
+            "n.女兒"
         ]
     },
     {
@@ -1964,14 +1963,14 @@
     {
         "name": "grandpa",
         "trans": [
-            "n.爷爷",
+            "n.爺爺",
             "n.外公"
         ]
     },
     {
         "name": "mother",
         "trans": [
-            "n.母亲"
+            "n.母親"
         ]
     },
     {
@@ -1983,7 +1982,7 @@
     {
         "name": "father",
         "trans": [
-            "n.父亲"
+            "n.父親"
         ]
     },
     {
@@ -2015,7 +2014,7 @@
     {
         "name": "grandson",
         "trans": [
-            "n.孙子"
+            "n.孫子"
         ]
     },
     {
@@ -2052,7 +2051,7 @@
     {
         "name": "apple",
         "trans": [
-            "n.苹果"
+            "n.蘋果"
         ]
     },
     {
@@ -2064,13 +2063,13 @@
     {
         "name": "hungry",
         "trans": [
-            "adj.饥饿的"
+            "adj.饑餓的"
         ]
     },
     {
         "name": "pizza",
         "trans": [
-            "n.比萨饼"
+            "n.披薩"
         ]
     },
     {
@@ -2094,7 +2093,7 @@
     {
         "name": "plate",
         "trans": [
-            "n.盘子"
+            "n.盤子"
         ]
     },
     {
@@ -2106,7 +2105,7 @@
     {
         "name": "cola",
         "trans": [
-            "n.可乐"
+            "n.可樂"
         ]
     },
     {
@@ -2118,44 +2117,45 @@
     {
         "name": "potato",
         "trans": [
-            "n.土豆"
+            "n.馬鈴薯"
         ]
     },
     {
         "name": "barbecue",
         "trans": [
-            "n.烧烤"
+            "n.烤肉"
         ]
     },
     {
         "name": "cook",
         "trans": [
-            "n.厨师",
-            "v.烹饪"
+            "n.廚師",
+            "v.烹飪"
         ]
     },
     {
         "name": "jam",
         "trans": [
-            "n.果酱"
+            "n.果醬"
         ]
     },
     {
         "name": "rice",
         "trans": [
-            "n.米饭"
+            "n.米飯"
         ]
     },
     {
         "name": "biscuit",
         "trans": [
-            "n.饼干"
+            "n.餅乾"
         ]
     },
     {
         "name": "cooker",
         "trans": [
-            "n.炊具"
+            "n.炊具",
+            "n.爐灶"
         ]
     },
     {
@@ -2186,7 +2186,7 @@
     {
         "name": "kitchen",
         "trans": [
-            "n.厨房"
+            "n.廚房"
         ]
     },
     {
@@ -2216,7 +2216,7 @@
     {
         "name": "salt",
         "trans": [
-            "n.盐"
+            "n.鹽"
         ]
     },
     {
@@ -2234,7 +2234,7 @@
     {
         "name": "lemon",
         "trans": [
-            "n.柠檬"
+            "n.檸檬"
         ]
     },
     {
@@ -2252,19 +2252,21 @@
     {
         "name": "cut",
         "trans": [
-            "n.切口"
+            "n.切口",
+            "v.切"
         ]
     },
     {
         "name": "lemonade",
         "trans": [
-            "n.柠檬水"
+            "n.檸檬水",
+            "n.檸檬汁"
         ]
     },
     {
         "name": "sauce",
         "trans": [
-            "n.酱汁"
+            "n.醬汁"
         ]
     },
     {
@@ -2288,19 +2290,19 @@
     {
         "name": "sausage",
         "trans": [
-            "n.香肠"
+            "n.香腸"
         ]
     },
     {
         "name": "bread",
         "trans": [
-            "n.面包"
+            "n.麵包"
         ]
     },
     {
         "name": "dessert",
         "trans": [
-            "n.甜点"
+            "n.甜點"
         ]
     },
     {
@@ -2312,13 +2314,15 @@
     {
         "name": "slice",
         "trans": [
-            "n.薄片"
+            "n.薄片",
+            "v.切片"
         ]
     },
     {
         "name": "break",
         "trans": [
-            "n.休息"
+            "n.休息",
+            "v.打破"
         ]
     },
     {
@@ -2330,13 +2334,13 @@
     {
         "name": "meal",
         "trans": [
-            "n.饭"
+            "n.餐"
         ]
     },
     {
         "name": "snack",
         "trans": [
-            "n.小吃"
+            "n.點心"
         ]
     },
     {
@@ -2348,7 +2352,8 @@
     {
         "name": "dish",
         "trans": [
-            "n.盘子"
+            "n.盤子",
+            "n.菜"
         ]
     },
     {
@@ -2360,13 +2365,13 @@
     {
         "name": "soup",
         "trans": [
-            "n.汤"
+            "n.湯"
         ]
     },
     {
         "name": "burger",
         "trans": [
-            "n.汉堡"
+            "n.漢堡"
         ]
     },
     {
@@ -2390,7 +2395,7 @@
     {
         "name": "butter",
         "trans": [
-            "n.黄油"
+            "n.奶油"
         ]
     },
     {
@@ -2402,7 +2407,7 @@
     {
         "name": "menu",
         "trans": [
-            "n.菜单"
+            "n.菜單"
         ]
     },
     {
@@ -2414,13 +2419,13 @@
     {
         "name": "cafe",
         "trans": [
-            "n.咖啡馆"
+            "n.咖啡館"
         ]
     },
     {
         "name": "egg",
         "trans": [
-            "n.鸡蛋"
+            "n.雞蛋"
         ]
     },
     {
@@ -2438,19 +2443,19 @@
     {
         "name": "cafeteria",
         "trans": [
-            "n.自助餐厅"
+            "n.自助餐"
         ]
     },
     {
         "name": "fish",
         "trans": [
-            "n.鱼"
+            "n.魚"
         ]
     },
     {
         "name": "mineral water",
         "trans": [
-            "矿泉水"
+            "礦泉水"
         ]
     },
     {
@@ -2487,7 +2492,7 @@
     {
         "name": "can",
         "trans": [
-            "n.罐头"
+            "n.罐頭"
         ]
     },
     {
@@ -2523,19 +2528,19 @@
     {
         "name": "omelette",
         "trans": [
-            "n.煎蛋卷"
+            "n.歐姆蛋"
         ]
     },
     {
         "name": "toast",
         "trans": [
-            "n.烤面包"
+            "n.吐司"
         ]
     },
     {
         "name": "carrot",
         "trans": [
-            "n.胡萝卜"
+            "n.胡蘿蔔"
         ]
     },
     {
@@ -2547,7 +2552,7 @@
     {
         "name": "onion",
         "trans": [
-            "n.洋葱"
+            "n.洋蔥"
         ]
     },
     {
@@ -2559,7 +2564,7 @@
     {
         "name": "cereal",
         "trans": [
-            "n.谷类食品"
+            "n.穀類食品"
         ]
     },
     {
@@ -2571,7 +2576,7 @@
     {
         "name": "orange",
         "trans": [
-            "n.橙子"
+            "n.橘子"
         ]
     },
     {
@@ -2583,7 +2588,7 @@
     {
         "name": "cheese",
         "trans": [
-            "n.奶酪"
+            "n.起司"
         ]
     },
     {
@@ -2595,19 +2600,19 @@
     {
         "name": "pasta",
         "trans": [
-            "n.面食"
+            "n.義大利麵"
         ]
     },
     {
         "name": "waiter",
         "trans": [
-            "n.服务员"
+            "n.服務員"
         ]
     },
     {
         "name": "chef",
         "trans": [
-            "n.厨师"
+            "n.廚師"
         ]
     },
     {
@@ -2619,19 +2624,19 @@
     {
         "name": "pear",
         "trans": [
-            "n.梨"
+            "n.梨子"
         ]
     },
     {
         "name": "waitress",
         "trans": [
-            "n.女服务员"
+            "n.女服務員"
         ]
     },
     {
         "name": "chicken",
         "trans": [
-            "n.鸡肉"
+            "n.雞肉"
         ]
     },
     {
@@ -2649,7 +2654,8 @@
     {
         "name": "wash up",
         "trans": [
-            "洗碗"
+            "v.洗碗",
+            "v.洗"
         ]
     },
     {
@@ -2673,13 +2679,13 @@
     {
         "name": "yoghurt",
         "trans": [
-            "n.酸奶"
+            "n.優格"
         ]
     },
     {
         "name": "chips",
         "trans": [
-            "n.薯条"
+            "n.洋芋片"
         ]
     },
     {
@@ -2691,7 +2697,7 @@
     {
         "name": "piece of cake",
         "trans": [
-            "一块蛋糕"
+            "非常容易的事情"
         ]
     },
     {
@@ -2703,31 +2709,31 @@
     {
         "name": "danger",
         "trans": [
-            "n.危险"
+            "n.危險"
         ]
     },
     {
         "name": "hair",
         "trans": [
-            "n.头发"
+            "n.頭髮"
         ]
     },
     {
         "name": "problem",
         "trans": [
-            "n.问题"
+            "n.問題"
         ]
     },
     {
         "name": "ambulance",
         "trans": [
-            "n.救护车"
+            "n.救護車"
         ]
     },
     {
         "name": "dangerous",
         "trans": [
-            "adj.危险的"
+            "adj.危險的"
         ]
     },
     {
@@ -2745,7 +2751,8 @@
     {
         "name": "appointment",
         "trans": [
-            "n.约会"
+            "n.約會",
+            "n.預約"
         ]
     },
     {
@@ -2757,7 +2764,7 @@
     {
         "name": "head",
         "trans": [
-            "n.头"
+            "n.頭"
         ]
     },
     {
@@ -2775,7 +2782,7 @@
     {
         "name": "dentist",
         "trans": [
-            "n.牙医"
+            "n.牙醫"
         ]
     },
     {
@@ -2793,7 +2800,7 @@
     {
         "name": "baby",
         "trans": [
-            "n.婴儿"
+            "n.嬰兒"
         ]
     },
     {
@@ -2805,7 +2812,7 @@
     {
         "name": "hear",
         "trans": [
-            "v.听见"
+            "v.聽見"
         ]
     },
     {
@@ -2823,13 +2830,13 @@
     {
         "name": "doctor",
         "trans": [
-            "n.医生"
+            "n.醫生"
         ]
     },
     {
         "name": "heart",
         "trans": [
-            "n.心脏"
+            "n.心臟"
         ]
     },
     {
@@ -2847,7 +2854,7 @@
     {
         "name": "hospital",
         "trans": [
-            "n.医院"
+            "n.醫院"
         ]
     },
     {
@@ -2859,7 +2866,7 @@
     {
         "name": "body",
         "trans": [
-            "n.身体"
+            "n.身體"
         ]
     },
     {
@@ -2871,25 +2878,26 @@
     {
         "name": "hurt",
         "trans": [
-            "v.受伤"
+            "v.受傷"
         ]
     },
     {
         "name": "swim",
         "trans": [
-            "v.游泳"
+            "v.遊泳"
         ]
     },
     {
         "name": "brain",
         "trans": [
-            "大脑"
+            "大腦"
         ]
     },
     {
         "name": "exercise",
         "trans": [
-            "锻炼"
+            "v.鍛煉",
+            "n.練習"
         ]
     },
     {
@@ -2901,7 +2909,7 @@
     {
         "name": "temperature",
         "trans": [
-            "体温"
+            "體溫"
         ]
     },
     {
@@ -2925,19 +2933,19 @@
     {
         "name": "tired",
         "trans": [
-            "疲劳的"
+            "疲勞的"
         ]
     },
     {
         "name": "check",
         "trans": [
-            "v.检查"
+            "v.檢查"
         ]
     },
     {
         "name": "face",
         "trans": [
-            "脸"
+            "臉"
         ]
     },
     {
@@ -2949,13 +2957,13 @@
     {
         "name": "tooth",
         "trans": [
-            "牙齿"
+            "牙齒"
         ]
     },
     {
         "name": "chemist",
         "trans": [
-            "化学家"
+            "化學家"
         ]
     },
     {
@@ -2967,7 +2975,7 @@
     {
         "name": "medicine",
         "trans": [
-            "药物"
+            "藥物"
         ]
     },
     {
@@ -2979,14 +2987,14 @@
     {
         "name": "clean",
         "trans": [
-            "adj.干净的",
-            "v.清洁"
+            "adj.乾淨的",
+            "v.清潔"
         ]
     },
     {
         "name": "feel",
         "trans": [
-            "v.感觉"
+            "v.感覺"
         ]
     },
     {
@@ -3004,7 +3012,8 @@
     {
         "name": "cold",
         "trans": [
-            "n.感冒"
+            "n.感冒",
+            "adj.冷的"
         ]
     },
     {
@@ -3034,13 +3043,13 @@
     {
         "name": "fit",
         "trans": [
-            "适合"
+            "適合"
         ]
     },
     {
         "name": "nurse",
         "trans": [
-            "护士"
+            "護士"
         ]
     },
     {
@@ -3058,7 +3067,7 @@
     {
         "name": "foot",
         "trans": [
-            "脚"
+            "腳"
         ]
     },
     {
@@ -3070,37 +3079,38 @@
     {
         "name": "barbecue",
         "trans": [
-            "n.烧烤"
+            "n.燒烤",
+            "n.烤肉"
         ]
     },
     {
         "name": "CD player",
         "trans": [
-            "CD播放器"
+            "CD 播放器"
         ]
     },
     {
         "name": "go shopping",
         "trans": [
-            "去购物"
+            "去購物"
         ]
     },
     {
         "name": "music",
         "trans": [
-            "n.音乐"
+            "n.音樂"
         ]
     },
     {
         "name": "beach",
         "trans": [
-            "n.海滩"
+            "n.海灘"
         ]
     },
     {
         "name": "club",
         "trans": [
-            "n.俱乐部"
+            "n.俱樂部"
         ]
     },
     {
@@ -3112,13 +3122,13 @@
     {
         "name": "musician",
         "trans": [
-            "n.音乐家"
+            "n.音樂家"
         ]
     },
     {
         "name": "bicycle",
         "trans": [
-            "n.自行车"
+            "n.腳踏車"
         ]
     },
     {
@@ -3130,26 +3140,27 @@
     {
         "name": "hobby",
         "trans": [
-            "n.爱好"
+            "n.愛好"
         ]
     },
     {
         "name": "paint",
         "trans": [
-            "n.颜料",
-            "v.绘画"
+            "n.顏料",
+            "v.繪畫"
         ]
     },
     {
         "name": "bike",
         "trans": [
-            "n.自行车"
+            "n.自行車",
+            "n.摩托車"
         ]
     },
     {
         "name": "computer",
         "trans": [
-            "n.计算机"
+            "n.電腦"
         ]
     },
     {
@@ -3161,19 +3172,19 @@
     {
         "name": "park",
         "trans": [
-            "n.公园"
+            "n.公園"
         ]
     },
     {
         "name": "book",
         "trans": [
-            "n.书籍"
+            "n.書籍"
         ]
     },
     {
         "name": "cycling",
         "trans": [
-            "n.骑自行车"
+            "n.騎自行車"
         ]
     },
     {
@@ -3185,13 +3196,13 @@
     {
         "name": "party",
         "trans": [
-            "n.聚会"
+            "n.聚會"
         ]
     },
     {
         "name": "camera",
         "trans": [
-            "n.相机"
+            "n.相機"
         ]
     },
     {
@@ -3204,7 +3215,7 @@
     {
         "name": "magazine",
         "trans": [
-            "n.杂志"
+            "n.雜誌"
         ]
     },
     {
@@ -3217,19 +3228,19 @@
     {
         "name": "camp",
         "trans": [
-            "n.营地"
+            "n.營地"
         ]
     },
     {
         "name": "draw",
         "trans": [
-            "v.画画"
+            "v.畫畫"
         ]
     },
     {
         "name": "member",
         "trans": [
-            "n.成员"
+            "n.成員"
         ]
     },
     {
@@ -3241,49 +3252,49 @@
     {
         "name": "camping",
         "trans": [
-            "n.露营"
+            "n.露營"
         ]
     },
     {
         "name": "DVD player",
         "trans": [
-            "DVD播放器"
+            "DVD 播放器"
         ]
     },
     {
         "name": "MP3 player",
         "trans": [
-            "MP3播放器"
+            "MP3 播放器"
         ]
     },
     {
         "name": "quiz",
         "trans": [
-            "n.测验"
+            "n.測驗"
         ]
     },
     {
         "name": "campsite",
         "trans": [
-            "n.露营地"
+            "n.露營地"
         ]
     },
     {
         "name": "festival",
         "trans": [
-            "n.节日"
+            "n.節日"
         ]
     },
     {
         "name": "museum",
         "trans": [
-            "n.博物馆"
+            "n.博物館"
         ]
     },
     {
         "name": "tent",
         "trans": [
-            "n.帐篷"
+            "n.帳篷"
         ]
     },
     {
@@ -3295,7 +3306,7 @@
     {
         "name": "video game",
         "trans": [
-            "n.电子游戏"
+            "n.電玩遊戲"
         ]
     },
     {
@@ -3307,7 +3318,7 @@
     {
         "name": "clock",
         "trans": [
-            "n.时钟"
+            "n.時鐘"
         ]
     },
     {
@@ -3331,19 +3342,19 @@
     {
         "name": "computer",
         "trans": [
-            "n.计算机"
+            "n.電腦"
         ]
     },
     {
         "name": "garage",
         "trans": [
-            "n.车库"
+            "n.車庫"
         ]
     },
     {
         "name": "pillow",
         "trans": [
-            "n.枕头"
+            "n.枕頭"
         ]
     },
     {
@@ -3355,13 +3366,14 @@
     {
         "name": "cooker",
         "trans": [
-            "n.炊具"
+            "n.炊具",
+            "n.爐灶"
         ]
     },
     {
         "name": "garden",
         "trans": [
-            "n.花园"
+            "n.花園"
         ]
     },
     {
@@ -3379,19 +3391,19 @@
     {
         "name": "cupboard",
         "trans": [
-            "n.橱柜"
+            "n.櫥櫃"
         ]
     },
     {
         "name": "gas",
         "trans": [
-            "n.气体"
+            "n.氣體"
         ]
     },
     {
         "name": "roof",
         "trans": [
-            "n.屋顶"
+            "n.屋頂"
         ]
     },
     {
@@ -3403,19 +3415,19 @@
     {
         "name": "curtain",
         "trans": [
-            "n.窗帘"
+            "n.窗簾"
         ]
     },
     {
         "name": "gate",
         "trans": [
-            "n.大门"
+            "n.大門"
         ]
     },
     {
         "name": "room",
         "trans": [
-            "n.房间"
+            "n.房間"
         ]
     },
     {
@@ -3427,13 +3439,13 @@
     {
         "name": "desk",
         "trans": [
-            "n.写字台"
+            "n.桌子"
         ]
     },
     {
         "name": "hall",
         "trans": [
-            "n.大厅"
+            "n.大廳"
         ]
     },
     {
@@ -3445,19 +3457,19 @@
     {
         "name": "bedroom",
         "trans": [
-            "n.卧室"
+            "n.臥室"
         ]
     },
     {
         "name": "dining room",
         "trans": [
-            "n.餐厅"
+            "n.餐廳"
         ]
     },
     {
         "name": "heating",
         "trans": [
-            "n.供暖"
+            "n.加熱"
         ]
     },
     {
@@ -3469,13 +3481,13 @@
     {
         "name": "bin",
         "trans": [
-            "n.垃圾箱"
+            "n.垃圾桶"
         ]
     },
     {
         "name": "door",
         "trans": [
-            "n.门"
+            "n.門"
         ]
     },
     {
@@ -3487,7 +3499,7 @@
     {
         "name": "shelf",
         "trans": [
-            "n.书架"
+            "n.書架"
         ]
     },
     {
@@ -3499,7 +3511,7 @@
     {
         "name": "downstairs",
         "trans": [
-            "adv.楼下"
+            "adv.樓下"
         ]
     },
     {
@@ -3517,19 +3529,19 @@
     {
         "name": "bookcase",
         "trans": [
-            "n.书柜"
+            "n.書櫃"
         ]
     },
     {
         "name": "drawer",
         "trans": [
-            "n.抽屉"
+            "n.抽屜"
         ]
     },
     {
         "name": "key",
         "trans": [
-            "n.钥匙"
+            "n.鑰匙"
         ]
     },
     {
@@ -3541,25 +3553,25 @@
     {
         "name": "bookshelf",
         "trans": [
-            "n.书架"
+            "n.書架"
         ]
     },
     {
         "name": "DVD player",
         "trans": [
-            "n.DVD播放器"
+            "n.DVD 播放器"
         ]
     },
     {
         "name": "kitchen",
         "trans": [
-            "n.厨房"
+            "n.廚房"
         ]
     },
     {
         "name": "sitting room",
         "trans": [
-            "n.客厅"
+            "n.客廳"
         ]
     },
     {
@@ -3577,13 +3589,13 @@
     {
         "name": "lamp",
         "trans": [
-            "n.灯"
+            "n.燈"
         ]
     },
     {
         "name": "sofa",
         "trans": [
-            "n.沙发"
+            "n.沙發"
         ]
     },
     {
@@ -3595,13 +3607,13 @@
     {
         "name": "flat",
         "trans": [
-            "n.公寓"
+            "n.平面"
         ]
     },
     {
         "name": "light",
         "trans": [
-            "n.灯光"
+            "n.燈光"
         ]
     },
     {
@@ -3631,7 +3643,7 @@
     {
         "name": "toilet",
         "trans": [
-            "n.厕所"
+            "n.廁所"
         ]
     },
     {
@@ -3649,7 +3661,7 @@
     {
         "name": "living room",
         "trans": [
-            "n.起居室"
+            "n.客廳"
         ]
     },
     {
@@ -3661,37 +3673,37 @@
     {
         "name": "centimetre",
         "trans": [
-            "n.厘米"
+            "n.公分"
         ]
     },
     {
         "name": "half metre/meter",
         "trans": [
-            "n.半米 / 米"
+            "n.半公尺"
         ]
     },
     {
         "name": "temperature",
         "trans": [
-            "n.温度"
+            "n.溫度"
         ]
     },
     {
         "name": "centimeter/cm",
         "trans": [
-            "n.厘米"
+            "n.公分"
         ]
     },
     {
         "name": "hour",
         "trans": [
-            "n.小时"
+            "n.小時"
         ]
     },
     {
         "name": "minute",
         "trans": [
-            "n.分钟"
+            "n.分鐘"
         ]
     },
     {
@@ -3721,7 +3733,7 @@
     {
         "name": "moment",
         "trans": [
-            "n.瞬间"
+            "n.瞬間"
         ]
     },
     {
@@ -3763,7 +3775,8 @@
     {
         "name": "litre/liter",
         "trans": [
-            "n.升"
+            "n.升",
+            "n.公升"
         ]
     },
     {
@@ -3775,13 +3788,13 @@
     {
         "name": "able",
         "trans": [
-            "adj.能够的"
+            "adj.能夠的"
         ]
     },
     {
         "name": "difficult",
         "trans": [
-            "adj.困难的"
+            "adj.困難的"
         ]
     },
     {
@@ -3793,7 +3806,7 @@
     {
         "name": "soft",
         "trans": [
-            "adj.柔软的"
+            "adj.柔軟的"
         ]
     },
     {
@@ -3805,13 +3818,13 @@
     {
         "name": "excellent",
         "trans": [
-            "adj.优秀的"
+            "adj.優秀的"
         ]
     },
     {
         "name": "lovely",
         "trans": [
-            "adj.可爱的"
+            "adj.可愛的"
         ]
     },
     {
@@ -3823,7 +3836,7 @@
     {
         "name": "alone",
         "trans": [
-            "adj.独自的"
+            "adj.獨自的"
         ]
     },
     {
@@ -3835,19 +3848,19 @@
     {
         "name": "lucky",
         "trans": [
-            "adj.幸运的"
+            "adj.幸運的"
         ]
     },
     {
         "name": "special",
         "trans": [
-            "adj.特别的"
+            "adj.特別的"
         ]
     },
     {
         "name": "amazing",
         "trans": [
-            "adj.令人惊叹的"
+            "adj.令人驚嘆的"
         ]
     },
     {
@@ -3871,25 +3884,25 @@
     {
         "name": "angry",
         "trans": [
-            "adj.生气的"
+            "adj.生氣的"
         ]
     },
     {
         "name": "favourite",
         "trans": [
-            "adj.最喜欢的"
+            "adj.最喜歡的"
         ]
     },
     {
         "name": "modern",
         "trans": [
-            "adj.现代的"
+            "adj.現代的"
         ]
     },
     {
         "name": "strong",
         "trans": [
-            "adj.强壮的"
+            "adj.強壯的"
         ]
     },
     {
@@ -3913,13 +3926,13 @@
     {
         "name": "sure",
         "trans": [
-            "adj.确信的"
+            "adj.確信的"
         ]
     },
     {
         "name": "beautiful",
         "trans": [
-            "adj.美丽的"
+            "adj.美麗的"
         ]
     },
     {
@@ -3931,7 +3944,7 @@
     {
         "name": "noisy",
         "trans": [
-            "adj.吵闹的"
+            "adj.吵鬧的"
         ]
     },
     {
@@ -3991,7 +4004,7 @@
     {
         "name": "bored",
         "trans": [
-            "adj.无聊的"
+            "adj.無聊的"
         ]
     },
     {
@@ -4003,7 +4016,7 @@
     {
         "name": "poor",
         "trans": [
-            "adj.贫穷的"
+            "adj.貧窮的"
         ]
     },
     {
@@ -4015,13 +4028,13 @@
     {
         "name": "boring",
         "trans": [
-            "adj.无聊的"
+            "adj.無聊的"
         ]
     },
     {
         "name": "great",
         "trans": [
-            "adj.伟大的"
+            "adj.偉大的"
         ]
     },
     {
@@ -4033,7 +4046,7 @@
     {
         "name": "unhappy",
         "trans": [
-            "adj.不快乐的"
+            "adj.不快樂的"
         ]
     },
     {
@@ -4045,7 +4058,7 @@
     {
         "name": "happy",
         "trans": [
-            "adj.快乐的"
+            "adj.快樂的"
         ]
     },
     {
@@ -4069,13 +4082,13 @@
     {
         "name": "hard",
         "trans": [
-            "adj.困难的"
+            "adj.困難的"
         ]
     },
     {
         "name": "quiet",
         "trans": [
-            "adj.安静的"
+            "adj.安靜的"
         ]
     },
     {
@@ -4099,13 +4112,13 @@
     {
         "name": "ready",
         "trans": [
-            "adj.准备好的"
+            "adj.準備好的"
         ]
     },
     {
         "name": "worried",
         "trans": [
-            "adj.担心的"
+            "adj.擔心的"
         ]
     },
     {
@@ -4123,13 +4136,13 @@
     {
         "name": "real",
         "trans": [
-            "adj.真实的"
+            "adj.真實的"
         ]
     },
     {
         "name": "wrong",
         "trans": [
-            "adj.错误的"
+            "adj.錯誤的"
         ]
     },
     {
@@ -4141,7 +4154,7 @@
     {
         "name": "hungry",
         "trans": [
-            "adj.饥饿的"
+            "adj.饑餓的"
         ]
     },
     {
@@ -4153,13 +4166,13 @@
     {
         "name": "young",
         "trans": [
-            "adj.年轻的"
+            "adj.年輕的"
         ]
     },
     {
         "name": "clever",
         "trans": [
-            "adj.聪明的"
+            "adj.聰明的"
         ]
     },
     {
@@ -4171,7 +4184,7 @@
     {
         "name": "right",
         "trans": [
-            "adj.正确的"
+            "adj.正確的"
         ]
     },
     {
@@ -4183,7 +4196,7 @@
     {
         "name": "interested",
         "trans": [
-            "adj.感兴趣的"
+            "adj.感興趣的"
         ]
     },
     {
@@ -4213,19 +4226,19 @@
     {
         "name": "apartment",
         "trans": [
-            "公寓（楼）"
+            "公寓"
         ]
     },
     {
         "name": "department store",
         "trans": [
-            "百货商店"
+            "百貨公司"
         ]
     },
     {
         "name": "hotel",
         "trans": [
-            "酒店"
+            "飯店"
         ]
     },
     {
@@ -4237,13 +4250,13 @@
     {
         "name": "bank",
         "trans": [
-            "银行"
+            "銀行"
         ]
     },
     {
         "name": "disco",
         "trans": [
-            "迪厅"
+            "迪斯科舞廳"
         ]
     },
     {
@@ -4255,37 +4268,37 @@
     {
         "name": "sports centre",
         "trans": [
-            "体育中心"
+            "體育中心"
         ]
     },
     {
         "name": "block",
         "trans": [
-            "大楼"
+            "大樓"
         ]
     },
     {
         "name": "elevator",
         "trans": [
-            "电梯"
+            "電梯"
         ]
     },
     {
         "name": "library",
         "trans": [
-            "图书馆"
+            "圖書館"
         ]
     },
     {
         "name": "stadium",
         "trans": [
-            "体育场"
+            "體育場"
         ]
     },
     {
         "name": "bookshop",
         "trans": [
-            "书店"
+            "書店"
         ]
     },
     {
@@ -4297,7 +4310,7 @@
     {
         "name": "lift",
         "trans": [
-            "电梯"
+            "電梯"
         ]
     },
     {
@@ -4309,7 +4322,7 @@
     {
         "name": "bookstore",
         "trans": [
-            "书店"
+            "書店"
         ]
     },
     {
@@ -4321,43 +4334,43 @@
     {
         "name": "museum",
         "trans": [
-            "博物馆"
+            "博物館"
         ]
     },
     {
         "name": "swimming pool",
         "trans": [
-            "游泳池"
+            "遊泳池"
         ]
     },
     {
         "name": "building",
         "trans": [
-            "建筑物"
+            "建築物"
         ]
     },
     {
         "name": "factory",
         "trans": [
-            "工厂"
+            "工廠"
         ]
     },
     {
         "name": "office",
         "trans": [
-            "办公室"
+            "辦公室"
         ]
     },
     {
         "name": "theatre",
         "trans": [
-            "剧院"
+            "劇院"
         ]
     },
     {
         "name": "cafe",
         "trans": [
-            "咖啡馆"
+            "咖啡館"
         ]
     },
     {
@@ -4369,25 +4382,25 @@
     {
         "name": "pharmacy",
         "trans": [
-            "药店"
+            "藥店"
         ]
     },
     {
         "name": "university",
         "trans": [
-            "大学"
+            "大學"
         ]
     },
     {
         "name": "cafeteria",
         "trans": [
-            "自助餐厅"
+            "自助餐廳"
         ]
     },
     {
         "name": "garage",
         "trans": [
-            "车库"
+            "車庫"
         ]
     },
     {
@@ -4405,19 +4418,19 @@
     {
         "name": "grocery store",
         "trans": [
-            "杂货店"
+            "雜貨店"
         ]
     },
     {
         "name": "post office",
         "trans": [
-            "邮局"
+            "郵局"
         ]
     },
     {
         "name": "cinema",
         "trans": [
-            "电影院"
+            "電影院"
         ]
     },
     {
@@ -4429,31 +4442,31 @@
     {
         "name": "railway station",
         "trans": [
-            "火车站"
+            "火車站"
         ]
     },
     {
         "name": "college",
         "trans": [
-            "大学"
+            "大學"
         ]
     },
     {
         "name": "hospital",
         "trans": [
-            "医院"
+            "醫院"
         ]
     },
     {
         "name": "school",
         "trans": [
-            "学校"
+            "學校"
         ]
     },
     {
         "name": "area",
         "trans": [
-            "n.地区"
+            "n.地區"
         ]
     },
     {
@@ -4465,7 +4478,7 @@
     {
         "name": "path",
         "trans": [
-            "n.小径"
+            "n.小徑"
         ]
     },
     {
@@ -4477,7 +4490,7 @@
     {
         "name": "beach",
         "trans": [
-            "n.海滩"
+            "n.海灘"
         ]
     },
     {
@@ -4489,31 +4502,31 @@
     {
         "name": "railway",
         "trans": [
-            "n.铁路"
+            "n.鐵路"
         ]
     },
     {
         "name": "village",
         "trans": [
-            "n.村庄"
+            "n.村莊"
         ]
     },
     {
         "name": "campsite",
         "trans": [
-            "n.露营地"
+            "n.露營地"
         ]
     },
     {
         "name": "island",
         "trans": [
-            "n.岛屿"
+            "n.島嶼"
         ]
     },
     {
         "name": "rainforest",
         "trans": [
-            "n.热带雨林"
+            "n.熱帶雨林"
         ]
     },
     {
@@ -4525,7 +4538,7 @@
     {
         "name": "farm",
         "trans": [
-            "n.农场"
+            "n.農場"
         ]
     },
     {
@@ -4561,7 +4574,7 @@
     {
         "name": "airport",
         "trans": [
-            "n.机场"
+            "n.機場"
         ]
     },
     {
@@ -4579,13 +4592,13 @@
     {
         "name": "station",
         "trans": [
-            "n.车站"
+            "n.車站"
         ]
     },
     {
         "name": "bridge",
         "trans": [
-            "n.桥梁"
+            "n.橋梁"
         ]
     },
     {
@@ -4597,7 +4610,7 @@
     {
         "name": "playground",
         "trans": [
-            "n.操场"
+            "n.操場"
         ]
     },
     {
@@ -4609,13 +4622,13 @@
     {
         "name": "bus station",
         "trans": [
-            "n.公交车站"
+            "n.公交車站"
         ]
     },
     {
         "name": "market",
         "trans": [
-            "n.市场"
+            "n.市場"
         ]
     },
     {
@@ -4627,13 +4640,13 @@
     {
         "name": "town",
         "trans": [
-            "n.城镇"
+            "n.城鎮"
         ]
     },
     {
         "name": "bus stop",
         "trans": [
-            "n.公交车站"
+            "n.公交車站"
         ]
     },
     {
@@ -4645,55 +4658,55 @@
     {
         "name": "roundabout",
         "trans": [
-            "n.环形交叉路口"
+            "n.環形交叉路口"
         ]
     },
     {
         "name": "underground",
         "trans": [
-            "n.地铁"
+            "n.地鐵"
         ]
     },
     {
         "name": "car park",
         "trans": [
-            "n.停车场"
+            "n.停車場"
         ]
     },
     {
         "name": "park",
         "trans": [
-            "n.公园"
+            "n.公園"
         ]
     },
     {
         "name": "square",
         "trans": [
-            "n.广场"
+            "n.廣場"
         ]
     },
     {
         "name": "zoo",
         "trans": [
-            "n.动物园"
+            "n.動物園"
         ]
     },
     {
         "name": "Services",
         "trans": [
-            "服务设施"
+            "服務設施"
         ]
     },
     {
         "name": "bank",
         "trans": [
-            "n.银行"
+            "n.銀行"
         ]
     },
     {
         "name": "doctor",
         "trans": [
-            "n.医生"
+            "n.醫生"
         ]
     },
     {
@@ -4705,37 +4718,37 @@
     {
         "name": "theatre",
         "trans": [
-            "n.剧院"
+            "n.劇院"
         ]
     },
     {
         "name": "cafe",
         "trans": [
-            "n.咖啡馆"
+            "n.咖啡館"
         ]
     },
     {
         "name": "garage",
         "trans": [
-            "n.车库"
+            "n.車庫"
         ]
     },
     {
         "name": "post office",
         "trans": [
-            "n.邮局"
+            "n.郵局"
         ]
     },
     {
         "name": "tourist information",
         "trans": [
-            "n.旅游信息"
+            "n.旅遊信息"
         ]
     },
     {
         "name": "cafeteria",
         "trans": [
-            "n.自助餐厅"
+            "n.自助餐廳"
         ]
     },
     {
@@ -4747,49 +4760,49 @@
     {
         "name": "restaurant",
         "trans": [
-            "n.餐厅"
+            "n.餐廳"
         ]
     },
     {
         "name": "cinema",
         "trans": [
-            "n.电影院"
+            "n.電影院"
         ]
     },
     {
         "name": "library",
         "trans": [
-            "n.图书馆"
+            "n.圖書館"
         ]
     },
     {
         "name": "sports centre",
         "trans": [
-            "n.体育中心"
+            "n.體育中心"
         ]
     },
     {
         "name": "dentist",
         "trans": [
-            "n.牙医"
+            "n.牙醫"
         ]
     },
     {
         "name": "museum",
         "trans": [
-            "n.博物馆"
+            "n.博物館"
         ]
     },
     {
         "name": "swimming pool",
         "trans": [
-            "n.游泳池"
+            "n.遊泳池"
         ]
     },
     {
         "name": "ad/advertisement",
         "trans": [
-            "广告"
+            "廣告"
         ]
     },
     {
@@ -4801,7 +4814,7 @@
     {
         "name": "expensive",
         "trans": [
-            "昂贵的"
+            "昂貴的"
         ]
     },
     {
@@ -4819,7 +4832,7 @@
     {
         "name": "close",
         "trans": [
-            "v.关闭"
+            "v.關閉"
         ]
     },
     {
@@ -4837,57 +4850,57 @@
     {
         "name": "bill",
         "trans": [
-            "账单"
+            "賬單"
         ]
     },
     {
         "name": "closed",
         "trans": [
-            "关闭的"
+            "關閉的"
         ]
     },
     {
         "name": "go shopping",
         "trans": [
-            "购物"
+            "購物"
         ]
     },
     {
         "name": "shop assistant",
         "trans": [
-            "店员"
+            "店員"
         ]
     },
     {
         "name": "bookshop",
         "trans": [
-            "书店"
+            "書店"
         ]
     },
     {
         "name": "cost",
         "trans": [
             "n.成本",
-            "v.花费"
+            "v.花費"
         ]
     },
     {
         "name": "open",
         "trans": [
-            "v.打开",
-            "adj.开放的"
+            "v.打開",
+            "adj.開放的"
         ]
     },
     {
         "name": "shopper",
         "trans": [
-            "购物者"
+            "購物者"
         ]
     },
     {
         "name": "buy",
         "trans": [
-            "v.购买"
+            "v.購買"
         ]
     },
     {
@@ -4905,20 +4918,20 @@
     {
         "name": "shopping",
         "trans": [
-            "购物"
+            "購物"
         ]
     },
     {
         "name": "cost",
         "trans": [
             "n.成本",
-            "v.花费"
+            "v.花費"
         ]
     },
     {
         "name": "customer",
         "trans": [
-            "顾客"
+            "顧客"
         ]
     },
     {
@@ -4930,7 +4943,7 @@
     {
         "name": "spend",
         "trans": [
-            "花费"
+            "花費"
         ]
     },
     {
@@ -4942,13 +4955,13 @@
     {
         "name": "department store",
         "trans": [
-            "百货商店"
+            "百貨商店"
         ]
     },
     {
         "name": "pound",
         "trans": [
-            "英镑"
+            "英鎊"
         ]
     },
     {
@@ -4960,8 +4973,8 @@
     {
         "name": "change",
         "trans": [
-            "n.变化",
-            "v.改变"
+            "n.變化",
+            "v.改變"
         ]
     },
     {
@@ -4973,7 +4986,7 @@
     {
         "name": "price",
         "trans": [
-            "价格"
+            "價格"
         ]
     },
     {
@@ -4991,19 +5004,19 @@
     {
         "name": "euro",
         "trans": [
-            "欧元"
+            "歐元"
         ]
     },
     {
         "name": "receipt",
         "trans": [
-            "收据"
+            "收據"
         ]
     },
     {
         "name": "try on",
         "trans": [
-            "试穿"
+            "試穿"
         ]
     },
     {
@@ -5021,13 +5034,13 @@
     {
         "name": "riding",
         "trans": [
-            "骑马"
+            "騎馬"
         ]
     },
     {
         "name": "swimming",
         "trans": [
-            "游泳"
+            "遊泳"
         ]
     },
     {
@@ -5039,19 +5052,19 @@
     {
         "name": "football player",
         "trans": [
-            "足球运动员"
+            "足球運動員"
         ]
     },
     {
         "name": "rugby",
         "trans": [
-            "橄榄球"
+            "橄欖球"
         ]
     },
     {
         "name": "swimming costume",
         "trans": [
-            "泳装"
+            "泳裝"
         ]
     },
     {
@@ -5063,7 +5076,7 @@
     {
         "name": "game",
         "trans": [
-            "游戏"
+            "遊戲"
         ]
     },
     {
@@ -5075,25 +5088,25 @@
     {
         "name": "swimming pool",
         "trans": [
-            "游泳池"
+            "遊泳池"
         ]
     },
     {
         "name": "basketball",
         "trans": [
-            "篮球"
+            "籃球"
         ]
     },
     {
         "name": "goal",
         "trans": [
-            "目标"
+            "目標"
         ]
     },
     {
         "name": "sailing",
         "trans": [
-            "帆船运动"
+            "帆船運動"
         ]
     },
     {
@@ -5111,7 +5124,7 @@
     {
         "name": "golf",
         "trans": [
-            "高尔夫球"
+            "高爾夫球"
         ]
     },
     {
@@ -5129,7 +5142,7 @@
     {
         "name": "bathing suit",
         "trans": [
-            "泳装"
+            "泳裝"
         ]
     },
     {
@@ -5147,19 +5160,19 @@
     {
         "name": "team",
         "trans": [
-            "团队"
+            "團隊"
         ]
     },
     {
         "name": "beach",
         "trans": [
-            "海滩"
+            "海灘"
         ]
     },
     {
         "name": "kit",
         "trans": [
-            "装备"
+            "裝備"
         ]
     },
     {
@@ -5171,19 +5184,19 @@
     {
         "name": "tennis",
         "trans": [
-            "网球"
+            "網球"
         ]
     },
     {
         "name": "bicycle",
         "trans": [
-            "自行车"
+            "自行車"
         ]
     },
     {
         "name": "luck",
         "trans": [
-            "运气"
+            "運氣"
         ]
     },
     {
@@ -5195,31 +5208,31 @@
     {
         "name": "tennis player",
         "trans": [
-            "网球运动员"
+            "網球運動員"
         ]
     },
     {
         "name": "bike",
         "trans": [
-            "自行车"
+            "自行車"
         ]
     },
     {
         "name": "member",
         "trans": [
-            "成员"
+            "成員"
         ]
     },
     {
         "name": "skiing",
         "trans": [
-            "滑雪运动"
+            "滑雪運動"
         ]
     },
     {
         "name": "throw",
         "trans": [
-            "v.投掷"
+            "v.投擲"
         ]
     },
     {
@@ -5255,19 +5268,19 @@
     {
         "name": "player",
         "trans": [
-            "运动员"
+            "運動員"
         ]
     },
     {
         "name": "snowboarding",
         "trans": [
-            "滑雪板运动"
+            "滑雪板運動"
         ]
     },
     {
         "name": "tired",
         "trans": [
-            "疲劳的"
+            "疲勞的"
         ]
     },
     {
@@ -5279,55 +5292,55 @@
     {
         "name": "pool",
         "trans": [
-            "n.游泳池"
+            "n.遊泳池"
         ]
     },
     {
         "name": "soccer trainers",
         "trans": [
-            "足球训练鞋"
+            "足球訓練鞋"
         ]
     },
     {
         "name": "club",
         "trans": [
-            "俱乐部"
+            "俱樂部"
         ]
     },
     {
         "name": "practice",
         "trans": [
-            "n.练习"
+            "n.練習"
         ]
     },
     {
         "name": "sport",
         "trans": [
-            "运动"
+            "運動"
         ]
     },
     {
         "name": "versus",
         "trans": [
-            "对"
+            "對"
         ]
     },
     {
         "name": "coach",
         "trans": [
-            "n.教练"
+            "n.教練"
         ]
     },
     {
         "name": "practise",
         "trans": [
-            "v.练习"
+            "v.練習"
         ]
     },
     {
         "name": "sports centre",
         "trans": [
-            "体育中心"
+            "體育中心"
         ]
     },
     {
@@ -5339,19 +5352,19 @@
     {
         "name": "competition",
         "trans": [
-            "比赛"
+            "比賽"
         ]
     },
     {
         "name": "prize",
         "trans": [
-            "奖品"
+            "獎品"
         ]
     },
     {
         "name": "stadium",
         "trans": [
-            "体育场"
+            "體育場"
         ]
     },
     {
@@ -5369,26 +5382,26 @@
     {
         "name": "race",
         "trans": [
-            "n. 比赛",
-            "v. 竞赛"
+            "n. 比賽",
+            "v. 競賽"
         ]
     },
     {
         "name": "surf",
         "trans": [
-            "冲浪"
+            "沖浪"
         ]
     },
     {
         "name": "watch",
         "trans": [
-            "v.观看"
+            "v.觀看"
         ]
     },
     {
         "name": "cycling",
         "trans": [
-            "骑自行车"
+            "騎自行車"
         ]
     },
     {
@@ -5400,19 +5413,19 @@
     {
         "name": "surfboard",
         "trans": [
-            "冲浪板"
+            "沖浪板"
         ]
     },
     {
         "name": "win",
         "trans": [
-            "v.赢得"
+            "v.贏得"
         ]
     },
     {
         "name": "enter a competition",
         "trans": [
-            "参加比赛"
+            "參加比賽"
         ]
     },
     {
@@ -5425,44 +5438,44 @@
     {
         "name": "surfboarding",
         "trans": [
-            "冲浪运动"
+            "沖浪運動"
         ]
     },
     {
         "name": "windsurfing",
         "trans": [
-            "帆板运动"
+            "帆板運動"
         ]
     },
     {
         "name": "fishing",
         "trans": [
-            "钓鱼"
+            "釣魚"
         ]
     },
     {
         "name": "ride",
         "trans": [
-            "n.骑乘",
-            "v.骑乘"
+            "n.騎乘",
+            "v.騎乘"
         ]
     },
     {
         "name": "swim",
         "trans": [
-            "游泳"
+            "遊泳"
         ]
     },
     {
         "name": "winner",
         "trans": [
-            "获胜者"
+            "獲勝者"
         ]
     },
     {
         "name": "air",
         "trans": [
-            "空气"
+            "空氣"
         ]
     },
     {
@@ -5510,7 +5523,7 @@
     {
         "name": "beach",
         "trans": [
-            "海滩"
+            "海灘"
         ]
     },
     {
@@ -5552,19 +5565,19 @@
     {
         "name": "tree",
         "trans": [
-            "树木"
+            "樹木"
         ]
     },
     {
         "name": "country",
         "trans": [
-            "乡村"
+            "鄉村"
         ]
     },
     {
         "name": "grow",
         "trans": [
-            "生长"
+            "生長"
         ]
     },
     {
@@ -5582,7 +5595,7 @@
     {
         "name": "countryside",
         "trans": [
-            "乡村"
+            "鄉村"
         ]
     },
     {
@@ -5612,7 +5625,7 @@
     {
         "name": "hot",
         "trans": [
-            "炎热的"
+            "炎熱的"
         ]
     },
     {
@@ -5630,7 +5643,7 @@
     {
         "name": "east",
         "trans": [
-            "东方"
+            "東方"
         ]
     },
     {
@@ -5648,19 +5661,19 @@
     {
         "name": "wood",
         "trans": [
-            "树木"
+            "樹木"
         ]
     },
     {
         "name": "explorer",
         "trans": [
-            "探险家"
+            "探險家"
         ]
     },
     {
         "name": "island",
         "trans": [
-            "岛屿"
+            "島嶼"
         ]
     },
     {
@@ -5733,7 +5746,7 @@
         "name": "half past",
         "trans": [
             "半",
-            "过"
+            "過"
         ]
     },
     {
@@ -5751,7 +5764,7 @@
     {
         "name": "appointment",
         "trans": [
-            "约会"
+            "約會"
         ]
     },
     {
@@ -5781,13 +5794,13 @@
     {
         "name": "hour",
         "trans": [
-            "小时"
+            "小時"
         ]
     },
     {
         "name": "o’clock",
         "trans": [
-            "点钟"
+            "點鐘"
         ]
     },
     {
@@ -5805,7 +5818,7 @@
     {
         "name": "January",
         "trans": [
-            "一月"
+            "壹月"
         ]
     },
     {
@@ -5817,7 +5830,7 @@
     {
         "name": "past",
         "trans": [
-            "过去"
+            "過去"
         ]
     },
     {
@@ -5829,19 +5842,19 @@
     {
         "name": "calendar",
         "trans": [
-            "日历"
+            "日歷"
         ]
     },
     {
         "name": "meeting",
         "trans": [
-            "会议"
+            "會議"
         ]
     },
     {
         "name": "quarter",
         "trans": [
-            "一刻钟，四分之一"
+            "壹刻鐘，四分之壹"
         ]
     },
     {
@@ -5853,7 +5866,7 @@
     {
         "name": "century",
         "trans": [
-            "世纪"
+            "世紀"
         ]
     },
     {
@@ -5871,19 +5884,19 @@
     {
         "name": "working hours",
         "trans": [
-            "工作时间"
+            "工作時間"
         ]
     },
     {
         "name": "clock",
         "trans": [
-            "时钟"
+            "時鐘"
         ]
     },
     {
         "name": "minute",
         "trans": [
-            "分钟"
+            "分鐘"
         ]
     },
     {
@@ -5907,7 +5920,7 @@
     {
         "name": "moment",
         "trans": [
-            "瞬间"
+            "瞬間"
         ]
     },
     {
@@ -5931,7 +5944,7 @@
     {
         "name": "Monday",
         "trans": [
-            "星期一"
+            "星期壹"
         ]
     },
     {
@@ -5943,7 +5956,7 @@
     {
         "name": "time",
         "trans": [
-            "时间"
+            "時間"
         ]
     },
     {
@@ -5967,7 +5980,7 @@
     {
         "name": "diary",
         "trans": [
-            "日记"
+            "日記"
         ]
     },
     {
@@ -5985,13 +5998,13 @@
     {
         "name": "aero plane",
         "trans": [
-            "飞机"
+            "飛機"
         ]
     },
     {
         "name": "explorer",
         "trans": [
-            "探险家"
+            "探險家"
         ]
     },
     {
@@ -6009,13 +6022,13 @@
     {
         "name": "airport",
         "trans": [
-            "机场"
+            "機場"
         ]
     },
     {
         "name": "far",
         "trans": [
-            "远的"
+            "遠的"
         ]
     },
     {
@@ -6033,7 +6046,7 @@
     {
         "name": "ambulance",
         "trans": [
-            "救护车"
+            "救護車"
         ]
     },
     {
@@ -6045,13 +6058,13 @@
     {
         "name": "passport",
         "trans": [
-            "护照"
+            "護照"
         ]
     },
     {
         "name": "taxi",
         "trans": [
-            "出租车"
+            "出租車"
         ]
     },
     {
@@ -6063,7 +6076,7 @@
     {
         "name": "fly",
         "trans": [
-            "飞行"
+            "飛行"
         ]
     },
     {
@@ -6087,7 +6100,7 @@
     {
         "name": "garage",
         "trans": [
-            "车库"
+            "車庫"
         ]
     },
     {
@@ -6105,31 +6118,31 @@
     {
         "name": "bridge",
         "trans": [
-            "桥梁"
+            "橋梁"
         ]
     },
     {
         "name": "helicopter",
         "trans": [
-            "直升机"
+            "直升機"
         ]
     },
     {
         "name": "pilot",
         "trans": [
-            "飞行员"
+            "飛行員"
         ]
     },
     {
         "name": "tour guide",
         "trans": [
-            "导游"
+            "導遊"
         ]
     },
     {
         "name": "bus",
         "trans": [
-            "公共汽车"
+            "公共汽車"
         ]
     },
     {
@@ -6141,49 +6154,49 @@
     {
         "name": "platform",
         "trans": [
-            "站台"
+            "站臺"
         ]
     },
     {
         "name": "tourist",
         "trans": [
-            "游客"
+            "遊客"
         ]
     },
     {
         "name": "bus station",
         "trans": [
-            "汽车站"
+            "汽車站"
         ]
     },
     {
         "name": "leave",
         "trans": [
-            "离开"
+            "離開"
         ]
     },
     {
         "name": "railway",
         "trans": [
-            "铁路"
+            "鐵路"
         ]
     },
     {
         "name": "tourist information centre",
         "trans": [
-            "旅游咨询中心"
+            "旅遊咨詢中心"
         ]
     },
     {
         "name": "bus stop",
         "trans": [
-            "公交车站"
+            "公交車站"
         ]
     },
     {
         "name": "left",
         "trans": [
-            "左边"
+            "左邊"
         ]
     },
     {
@@ -6201,13 +6214,13 @@
     {
         "name": "car",
         "trans": [
-            "汽车"
+            "汽車"
         ]
     },
     {
         "name": "light",
         "trans": [
-            "灯光"
+            "燈光"
         ]
     },
     {
@@ -6220,7 +6233,7 @@
     {
         "name": "traffic light",
         "trans": [
-            "红绿灯"
+            "紅綠燈"
         ]
     },
     {
@@ -6244,43 +6257,43 @@
     {
         "name": "train",
         "trans": [
-            "火车"
+            "火車"
         ]
     },
     {
         "name": "coach",
         "trans": [
-            "长途汽车"
+            "長途汽車"
         ]
     },
     {
         "name": "machine",
         "trans": [
-            "机器"
+            "機器"
         ]
     },
     {
         "name": "right",
         "trans": [
-            "右边"
+            "右邊"
         ]
     },
     {
         "name": "tram",
         "trans": [
-            "有轨电车"
+            "有軌電車"
         ]
     },
     {
         "name": "country",
         "trans": [
-            "国家"
+            "國家"
         ]
     },
     {
         "name": "map",
         "trans": [
-            "地图"
+            "地圖"
         ]
     },
     {
@@ -6298,20 +6311,20 @@
     {
         "name": "delay",
         "trans": [
-            "n.延迟",
-            "v.延迟"
+            "n.延遲",
+            "v.延遲"
         ]
     },
     {
         "name": "mechanic",
         "trans": [
-            "机械师"
+            "機械師"
         ]
     },
     {
         "name": "roundabout",
         "trans": [
-            "环岛"
+            "環島"
         ]
     },
     {
@@ -6323,13 +6336,13 @@
     {
         "name": "delayed",
         "trans": [
-            "延迟的"
+            "延遲的"
         ]
     },
     {
         "name": "mirror",
         "trans": [
-            "镜子"
+            "鏡子"
         ]
     },
     {
@@ -6341,19 +6354,19 @@
     {
         "name": "tyre",
         "trans": [
-            "轮胎"
+            "輪胎"
         ]
     },
     {
         "name": "drive",
         "trans": [
-            "驾驶"
+            "駕駛"
         ]
     },
     {
         "name": "miss",
         "trans": [
-            "v.错过"
+            "v.錯過"
         ]
     },
     {
@@ -6365,19 +6378,19 @@
     {
         "name": "underground",
         "trans": [
-            "n.地铁"
+            "n.地鐵"
         ]
     },
     {
         "name": "driver",
         "trans": [
-            "司机"
+            "司機"
         ]
     },
     {
         "name": "motorbike",
         "trans": [
-            "摩托车"
+            "摩托車"
         ]
     },
     {
@@ -6389,19 +6402,19 @@
     {
         "name": "visit",
         "trans": [
-            "访问"
+            "訪問"
         ]
     },
     {
         "name": "driving licence",
         "trans": [
-            "驾驶执照"
+            "駕駛執照"
         ]
     },
     {
         "name": "driver’s licence",
         "trans": [
-            "驾驶执照"
+            "駕駛執照"
         ]
     },
     {
@@ -6413,13 +6426,13 @@
     {
         "name": "station",
         "trans": [
-            "车站"
+            "車站"
         ]
     },
     {
         "name": "visitor",
         "trans": [
-            "访客"
+            "訪客"
         ]
     },
     {
@@ -6431,7 +6444,7 @@
     {
         "name": "move",
         "trans": [
-            "移动"
+            "移動"
         ]
     },
     {
@@ -6443,13 +6456,13 @@
     {
         "name": "way",
         "trans": [
-            "n.路线"
+            "n.路線"
         ]
     },
     {
         "name": "engineer",
         "trans": [
-            "工程师"
+            "工程師"
         ]
     },
     {
@@ -6467,43 +6480,43 @@
     {
         "name": "wheel",
         "trans": [
-            "车轮"
+            "車輪"
         ]
     },
     {
         "name": "window",
         "trans": [
-            "窗户"
+            "窗戶"
         ]
     },
     {
         "name": "cloud",
         "trans": [
-            "云"
+            "雲"
         ]
     },
     {
         "name": "hot",
         "trans": [
-            "炎热的"
+            "炎熱的"
         ]
     },
     {
         "name": "sun",
         "trans": [
-            "太阳"
+            "太陽"
         ]
     },
     {
         "name": "wet",
         "trans": [
-            "潮湿的"
+            "潮濕的"
         ]
     },
     {
         "name": "cloudy",
         "trans": [
-            "多云的"
+            "多雲的"
         ]
     },
     {
@@ -6521,7 +6534,7 @@
     {
         "name": "wind",
         "trans": [
-            "风"
+            "風"
         ]
     },
     {
@@ -6545,13 +6558,13 @@
     {
         "name": "windy",
         "trans": [
-            "多风的"
+            "多風的"
         ]
     },
     {
         "name": "fog",
         "trans": [
-            "雾"
+            "霧"
         ]
     },
     {
@@ -6563,73 +6576,73 @@
     {
         "name": "warm",
         "trans": [
-            "温暖的"
+            "溫暖的"
         ]
     },
     {
         "name": "foggy",
         "trans": [
-            "多雾的"
+            "多霧的"
         ]
     },
     {
         "name": "storm",
         "trans": [
-            "风暴"
+            "風暴"
         ]
     },
     {
         "name": "weather",
         "trans": [
-            "天气"
+            "天氣"
         ]
     },
     {
         "name": "actor",
         "trans": [
-            "演员"
+            "演員"
         ]
     },
     {
         "name": "diploma",
         "trans": [
-            "文凭"
+            "文憑"
         ]
     },
     {
         "name": "journalist",
         "trans": [
-            "记者"
+            "記者"
         ]
     },
     {
         "name": "secretary",
         "trans": [
-            "秘书"
+            "秘書"
         ]
     },
     {
         "name": "artist",
         "trans": [
-            "艺术家"
+            "藝術家"
         ]
     },
     {
         "name": "doctor",
         "trans": [
-            "医生"
+            "醫生"
         ]
     },
     {
         "name": "king",
         "trans": [
-            "国王"
+            "國王"
         ]
     },
     {
         "name": "shop assistant",
         "trans": [
-            "店员"
+            "店員"
         ]
     },
     {
@@ -6653,7 +6666,7 @@
     {
         "name": "shopper",
         "trans": [
-            "购物者"
+            "購物者"
         ]
     },
     {
@@ -6665,13 +6678,13 @@
     {
         "name": "driver",
         "trans": [
-            "司机"
+            "司機"
         ]
     },
     {
         "name": "manager",
         "trans": [
-            "经理"
+            "經理"
         ]
     },
     {
@@ -6683,25 +6696,25 @@
     {
         "name": "business",
         "trans": [
-            "商业"
+            "商業"
         ]
     },
     {
         "name": "earn",
         "trans": [
-            "赚取"
+            "賺取"
         ]
     },
     {
         "name": "mechanic",
         "trans": [
-            "机械师"
+            "機械師"
         ]
     },
     {
         "name": "staff",
         "trans": [
-            "员工"
+            "員工"
         ]
     },
     {
@@ -6713,20 +6726,20 @@
     {
         "name": "email",
         "trans": [
-            "n.电子邮件",
-            "v.发送电子邮件"
+            "n.電子郵件",
+            "v.發送電子郵件"
         ]
     },
     {
         "name": "meeting",
         "trans": [
-            "会议"
+            "會議"
         ]
     },
     {
         "name": "student",
         "trans": [
-            "学生"
+            "學生"
         ]
     },
     {
@@ -6738,7 +6751,7 @@
     {
         "name": "engineer",
         "trans": [
-            "工程师"
+            "工程師"
         ]
     },
     {
@@ -6750,73 +6763,73 @@
     {
         "name": "teacher",
         "trans": [
-            "教师"
+            "教師"
         ]
     },
     {
         "name": "chemist",
         "trans": [
-            "化学家"
+            "化學家"
         ]
     },
     {
         "name": "explorer",
         "trans": [
-            "探险家"
+            "探險家"
         ]
     },
     {
         "name": "musician",
         "trans": [
-            "音乐家"
+            "音樂家"
         ]
     },
     {
         "name": "tennis player",
         "trans": [
-            "网球运动员"
+            "網球運動員"
         ]
     },
     {
         "name": "cleaner",
         "trans": [
-            "清洁工"
+            "清潔工"
         ]
     },
     {
         "name": "factory",
         "trans": [
-            "工厂"
+            "工廠"
         ]
     },
     {
         "name": "nurse",
         "trans": [
-            "护士"
+            "護士"
         ]
     },
     {
         "name": "tour guide",
         "trans": [
-            "导游"
+            "導遊"
         ]
     },
     {
         "name": "coach",
         "trans": [
-            "n.教练"
+            "n.教練"
         ]
     },
     {
         "name": "farm",
         "trans": [
-            "农场"
+            "農場"
         ]
     },
     {
         "name": "occupation",
         "trans": [
-            "职业"
+            "職業"
         ]
     },
     {
@@ -6834,43 +6847,43 @@
     {
         "name": "farmer",
         "trans": [
-            "农民"
+            "農民"
         ]
     },
     {
         "name": "office",
         "trans": [
-            "办公室"
+            "辦公室"
         ]
     },
     {
         "name": "waiter",
         "trans": [
-            "服务员"
+            "服務員"
         ]
     },
     {
         "name": "waitress",
         "trans": [
-            "女服务员"
+            "女服務員"
         ]
     },
     {
         "name": "computer",
         "trans": [
-            "计算机"
+            "計算機"
         ]
     },
     {
         "name": "footballer",
         "trans": [
-            "足球运动员"
+            "足球運動員"
         ]
     },
     {
         "name": "painter",
         "trans": [
-            "画家"
+            "畫家"
         ]
     },
     {
@@ -6882,20 +6895,20 @@
     {
         "name": "cook",
         "trans": [
-            "n.厨师",
-            "v.烹饪"
+            "n.廚師",
+            "v.烹飪"
         ]
     },
     {
         "name": "football player",
         "trans": [
-            "足球运动员"
+            "足球運動員"
         ]
     },
     {
         "name": "photographer",
         "trans": [
-            "摄影师"
+            "攝影師"
         ]
     },
     {
@@ -6907,7 +6920,7 @@
     {
         "name": "customer",
         "trans": [
-            "顾客"
+            "顧客"
         ]
     },
     {
@@ -6919,7 +6932,7 @@
     {
         "name": "pilot",
         "trans": [
-            "飞行员"
+            "飛行員"
         ]
     },
     {
@@ -6931,13 +6944,13 @@
     {
         "name": "dentist",
         "trans": [
-            "牙医"
+            "牙醫"
         ]
     },
     {
         "name": "guide",
         "trans": [
-            "导游"
+            "導遊"
         ]
     },
     {
@@ -6955,7 +6968,7 @@
     {
         "name": "instructions",
         "trans": [
-            "说明"
+            "說明"
         ]
     },
     {
@@ -6967,7 +6980,7 @@
     {
         "name": "diary",
         "trans": [
-            "日记"
+            "日記"
         ]
     },
     {
@@ -6979,7 +6992,7 @@
     {
         "name": "receptionist",
         "trans": [
-            "接待员"
+            "接待員"
         ]
     }
 ]
